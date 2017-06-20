@@ -1,0 +1,75 @@
+fileFormatVersion: 2
+guid: dbc67a675bfdfe0479ec09607ef6bd18
+timeCreated: 1496896373
+licenseType: Free
+SubstanceImporter:
+  serializedVersion: 5
+  materialInstances:
+  - serializedVersion: 16
+    name: wood_beech_mid_brown
+    prototypeName: wood_beech_mid_brown
+    shaderName: 
+    shader: {fileID: 46, guid: 0000000000000000f000000000000000, type: 0}
+    shaderKeywords: 
+    renderQueue: -1
+    lightmapFlags: 4
+    inputs: []
+    materialInformation:
+      serializedVersion: 5
+      offset: {x: 0, y: 0}
+      scale: {x: 1, y: 1}
+      generateMipmaps: 1
+      generateAllOutputs: 0
+      animationUpdateRate: 0
+    materialProperties:
+      serializedVersion: 3
+      texEnvs: []
+      floats: []
+      colors: []
+    textureParameters:
+    - name: wood_beech_mid_brown_basecolor
+      alphaSource: 6
+      filterMode: 1
+      aniso: 1
+      wrapMode: 0
+    - name: wood_beech_mid_brown_normal
+      alphaSource: 0
+      filterMode: 1
+      aniso: 1
+      wrapMode: 0
+    - name: wood_beech_mid_brown_metallic
+      alphaSource: 7
+      filterMode: 1
+      aniso: 1
+      wrapMode: 0
+    - name: wood_beech_mid_brown_ambient_occlusion
+      alphaSource: 0
+      filterMode: 1
+      aniso: 1
+      wrapMode: 0
+    - name: wood_beech_mid_brown_height
+      alphaSource: 0
+      filterMode: 1
+      aniso: 1
+      wrapMode: 0
+    textureAssignments:
+    - shaderProp: _BumpMap
+      material: {instanceID: 0}
+      baseUID: 2228706835
+    - shaderProp: _MainTex
+      material: {instanceID: 0}
+      baseUID: 2228706833
+    - shaderProp: _MetallicGlossMap
+      material: {instanceID: 0}
+      baseUID: 2228706843
+    - shaderProp: _OcclusionMap
+      material: {instanceID: 0}
+      baseUID: 2228706821
+    - shaderProp: _ParallaxMap
+      material: {instanceID: 0}
+      baseUID: 2228706823
+    buildTargetSettings: []
+  deletedPrototypes: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
