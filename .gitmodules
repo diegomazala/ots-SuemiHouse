@@ -1,0 +1,6 @@
+[submodule "unity/Assets/PostProcessing/PostProcessing.git"]
+	path = unity/Assets/PostProcessing/PostProcessing.git
+	url = https://github.com/Unity-Technologies/PostProcessing
+[submodule "unity/Assets/AssetBundles-Browser/AssetBundles-Browser.git"]
+	path = unity/Assets/AssetBundles-Browser/AssetBundles-Browser.git
+	url = https://github.com/Unity-Technologies/AssetBundles-Browser
