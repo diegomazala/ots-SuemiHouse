@@ -4,3 +4,6 @@
 [submodule "unity/Assets/AssetBundles-Browser/AssetBundles-Browser.git"]
 	path = unity/Assets/AssetBundles-Browser/AssetBundles-Browser.git
 	url = https://github.com/Unity-Technologies/AssetBundles-Browser
+[submodule "unity/Assets/LightShafts.git"]
+	path = unity/Assets/LightShafts.git
+	url = https://github.com/robertcupisz/LightShafts
