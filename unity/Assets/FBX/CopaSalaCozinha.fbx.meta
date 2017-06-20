@@ -1,0 +1,151 @@
+fileFormatVersion: 2
+guid: 71077f07ba735ee4d84b7fd9a93a720c
+timeCreated: 1496464358
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: 2PAV PISO001
+    100002: CopaSala
+    100004: //RootNode
+    100006: COZINHA PISO001
+    100008: COZINHA SOLEIRA001
+    100010: FORRO COZINHA001
+    100012: FORRO_externo
+    100014: FORRO_SalaCopa
+    100016: PISO CHURRASQ
+    100018: PisoCopaSalaCozinha
+    100020: ESCADA BASE002
+    100022: ESCADA BASE003
+    100024: ESCADA002
+    100026: ESCADA003
+    100028: Dummy001
+    100030: URB GRAMA
+    400000: 2PAV PISO001
+    400002: CopaSala
+    400004: //RootNode
+    400006: COZINHA PISO001
+    400008: COZINHA SOLEIRA001
+    400010: FORRO COZINHA001
+    400012: FORRO_externo
+    400014: FORRO_SalaCopa
+    400016: PISO CHURRASQ
+    400018: PisoCopaSalaCozinha
+    400020: ESCADA BASE002
+    400022: ESCADA BASE003
+    400024: ESCADA002
+    400026: ESCADA003
+    400028: Dummy001
+    400030: URB GRAMA
+    2300000: 2PAV PISO001
+    2300002: CopaSala
+    2300004: COZINHA PISO001
+    2300006: COZINHA SOLEIRA001
+    2300008: FORRO COZINHA001
+    2300010: FORRO_externo
+    2300012: FORRO_SalaCopa
+    2300014: PISO CHURRASQ
+    2300016: PisoCopaSalaCozinha
+    2300018: ESCADA BASE002
+    2300020: ESCADA BASE003
+    2300022: ESCADA002
+    2300024: ESCADA003
+    2300026: URB GRAMA
+    3300000: 2PAV PISO001
+    3300002: CopaSala
+    3300004: COZINHA PISO001
+    3300006: COZINHA SOLEIRA001
+    3300008: FORRO COZINHA001
+    3300010: FORRO_externo
+    3300012: FORRO_SalaCopa
+    3300014: PISO CHURRASQ
+    3300016: PisoCopaSalaCozinha
+    3300018: ESCADA BASE002
+    3300020: ESCADA BASE003
+    3300022: ESCADA002
+    3300024: ESCADA003
+    3300026: URB GRAMA
+    4300000: 2PAV PISO001
+    4300002: CopaSala
+    4300004: PISO CHURRASQ
+    4300006: PisoCopaSalaCozinha
+    4300008: FORRO_SalaCopa
+    4300010: FORRO_externo
+    4300012: FORRO COZINHA001
+    4300014: COZINHA PISO001
+    4300016: COZINHA SOLEIRA001
+    4300018: ESCADA BASE002
+    4300020: ESCADA002
+    4300022: ESCADA BASE003
+    4300024: ESCADA003
+    4300026: URB GRAMA
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
