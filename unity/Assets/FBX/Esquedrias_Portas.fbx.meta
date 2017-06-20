@@ -1,0 +1,569 @@
+fileFormatVersion: 2
+guid: fea8bc76aa669824d9320c250a9ce3de
+timeCreated: 1493193469
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: 1PAV ESQ JAN003
+    100002: 1PAV ESQ PORTA
+    100004: 1PAV ESQ PORTA003
+    100006: 1PAV ESQ PORTA006
+    100008: 1PAV ESQ PORTA008
+    100010: 1PAV ESQ PORTA009
+    100012: 1PAV ESQ TRILHO
+    100014: 1PAV ESQ TRILHO001
+    100016: 1PAV GC MONT
+    100018: 1PAV MARQUISE ESTRUT
+    100020: 1PAV MOLD JAN
+    100022: 1PAV MOLD JAN002
+    100024: 1PAV MOLD JAN003
+    100026: 1PAV MOLD JAN004
+    100028: 1PAV MOLD JAN005
+    100030: 1PAV PORTA ACESSO
+    100032: 1PAV PORTA COM VENEZIANA
+    100034: 1PAV PUXADOR PORTA ACESSO
+    100036: 2PAV ESQ PORTA002
+    100038: 2PAV ESQ TRILHO
+    100040: 2PAV MOLD JAN008
+    100042: 2PAV VAR GC001
+    100044: 2PAV VAR GC002
+    100046: COB ESQUADRIA VENEZIANA
+    100048: COB ESQUADRIA VENEZIANA001
+    100050: Component#1_001
+    100052: Component#1_002
+    100054: Component#1_003
+    100056: Component#1_004
+    100058: Component#1_005
+    100060: Component#1_006
+    100062: Component#1_007
+    100064: Component#1_008
+    100066: Component#1_009
+    100068: Component#1_010
+    100070: Component#1_011
+    100072: Component#1_012
+    100074: Component#1_013
+    100076: Component#1_014
+    100078: Component#2_001
+    100080: Component#2_002
+    100082: Component#2_003
+    100084: Component#2_004
+    100086: Component#2_005
+    100088: Component#2_006
+    100090: Component#2_007
+    100092: Component#2_008
+    100094: Component#2_009
+    100096: Component#2_010
+    100098: Component#2_011
+    100100: Component#2_012
+    100102: Component#2_013
+    100104: Component#2_014
+    100106: COZ_PORTA
+    100108: ESCADA BARRAS
+    100110: //RootNode
+    100112: GAR ESQUADRIA MOLDURA
+    100114: GAR MOLD JAN008
+    100116: Group_336
+    100118: Group_337
+    100120: Group_338
+    100122: Group_339
+    100124: Group_341
+    100126: Group_343
+    100128: Group_344
+    100130: Group_346
+    100132: Group_348
+    100134: Group_371
+    100136: Group_372
+    100138: Group_579
+    100140: Janela
+    100142: Janela_02
+    100144: JANELA_03
+    100146: Janela_03
+    100148: Janela_04
+    100150: MACANETA002
+    100152: MACANETA002 1
+    100154: MACANETA003
+    100156: MACANETA004
+    100158: MACANETA005
+    100160: OBJ_DOBRADICA
+    100162: OBJ_DOBRADICA 1
+    100164: OBJ_DOBRADICA001
+    100166: OBJ_DOBRADICA002
+    100168: OBJ_DOBRADICA003
+    100170: OBJ_PORTA
+    100172: OBJ_PORTA 1
+    100174: OBJ_PORTA001
+    100176: OBJ_PORTA002
+    100178: OBJ_PORTA003
+    100180: OBJ_PUXADOR
+    100182: OBJ_PUXADOR 1
+    100184: OBJ_PUXADOR001
+    100186: OBJ_PUXADOR002
+    100188: OBJ_PUXADOR003
+    100190: Object050
+    100192: Object051
+    100194: Object052
+    100196: Object060
+    400000: 1PAV ESQ JAN003
+    400002: 1PAV ESQ PORTA
+    400004: 1PAV ESQ PORTA003
+    400006: 1PAV ESQ PORTA006
+    400008: 1PAV ESQ PORTA008
+    400010: 1PAV ESQ PORTA009
+    400012: 1PAV ESQ TRILHO
+    400014: 1PAV ESQ TRILHO001
+    400016: 1PAV GC MONT
+    400018: 1PAV MARQUISE ESTRUT
+    400020: 1PAV MOLD JAN
+    400022: 1PAV MOLD JAN002
+    400024: 1PAV MOLD JAN003
+    400026: 1PAV MOLD JAN004
+    400028: 1PAV MOLD JAN005
+    400030: 1PAV PORTA ACESSO
+    400032: 1PAV PORTA COM VENEZIANA
+    400034: 1PAV PUXADOR PORTA ACESSO
+    400036: 2PAV ESQ PORTA002
+    400038: 2PAV ESQ TRILHO
+    400040: 2PAV MOLD JAN008
+    400042: 2PAV VAR GC001
+    400044: 2PAV VAR GC002
+    400046: COB ESQUADRIA VENEZIANA
+    400048: COB ESQUADRIA VENEZIANA001
+    400050: Component#1_001
+    400052: Component#1_002
+    400054: Component#1_003
+    400056: Component#1_004
+    400058: Component#1_005
+    400060: Component#1_006
+    400062: Component#1_007
+    400064: Component#1_008
+    400066: Component#1_009
+    400068: Component#1_010
+    400070: Component#1_011
+    400072: Component#1_012
+    400074: Component#1_013
+    400076: Component#1_014
+    400078: Component#2_001
+    400080: Component#2_002
+    400082: Component#2_003
+    400084: Component#2_004
+    400086: Component#2_005
+    400088: Component#2_006
+    400090: Component#2_007
+    400092: Component#2_008
+    400094: Component#2_009
+    400096: Component#2_010
+    400098: Component#2_011
+    400100: Component#2_012
+    400102: Component#2_013
+    400104: Component#2_014
+    400106: COZ_PORTA
+    400108: ESCADA BARRAS
+    400110: //RootNode
+    400112: GAR ESQUADRIA MOLDURA
+    400114: GAR MOLD JAN008
+    400116: Group_336
+    400118: Group_337
+    400120: Group_338
+    400122: Group_339
+    400124: Group_341
+    400126: Group_343
+    400128: Group_344
+    400130: Group_346
+    400132: Group_348
+    400134: Group_371
+    400136: Group_372
+    400138: Group_579
+    400140: Janela
+    400142: Janela_02
+    400144: JANELA_03
+    400146: Janela_03
+    400148: Janela_04
+    400150: MACANETA002
+    400152: MACANETA002 1
+    400154: MACANETA003
+    400156: MACANETA004
+    400158: MACANETA005
+    400160: OBJ_DOBRADICA
+    400162: OBJ_DOBRADICA 1
+    400164: OBJ_DOBRADICA001
+    400166: OBJ_DOBRADICA002
+    400168: OBJ_DOBRADICA003
+    400170: OBJ_PORTA
+    400172: OBJ_PORTA 1
+    400174: OBJ_PORTA001
+    400176: OBJ_PORTA002
+    400178: OBJ_PORTA003
+    400180: OBJ_PUXADOR
+    400182: OBJ_PUXADOR 1
+    400184: OBJ_PUXADOR001
+    400186: OBJ_PUXADOR002
+    400188: OBJ_PUXADOR003
+    400190: Object050
+    400192: Object051
+    400194: Object052
+    400196: Object060
+    2300000: 1PAV ESQ JAN003
+    2300002: 1PAV ESQ PORTA
+    2300004: 1PAV ESQ PORTA003
+    2300006: 1PAV ESQ PORTA006
+    2300008: 1PAV ESQ PORTA008
+    2300010: 1PAV ESQ PORTA009
+    2300012: 1PAV ESQ TRILHO
+    2300014: 1PAV ESQ TRILHO001
+    2300016: 1PAV GC MONT
+    2300018: 1PAV MARQUISE ESTRUT
+    2300020: 1PAV MOLD JAN
+    2300022: 1PAV MOLD JAN002
+    2300024: 1PAV MOLD JAN003
+    2300026: 1PAV MOLD JAN004
+    2300028: 1PAV MOLD JAN005
+    2300030: 1PAV PORTA ACESSO
+    2300032: 1PAV PORTA COM VENEZIANA
+    2300034: 1PAV PUXADOR PORTA ACESSO
+    2300036: 2PAV ESQ PORTA002
+    2300038: 2PAV ESQ TRILHO
+    2300040: 2PAV MOLD JAN008
+    2300042: 2PAV VAR GC001
+    2300044: 2PAV VAR GC002
+    2300046: COB ESQUADRIA VENEZIANA
+    2300048: COB ESQUADRIA VENEZIANA001
+    2300050: Component#1_001
+    2300052: Component#1_002
+    2300054: Component#1_003
+    2300056: Component#1_004
+    2300058: Component#1_005
+    2300060: Component#1_006
+    2300062: Component#1_007
+    2300064: Component#1_008
+    2300066: Component#1_009
+    2300068: Component#1_010
+    2300070: Component#1_011
+    2300072: Component#1_012
+    2300074: Component#1_013
+    2300076: Component#1_014
+    2300078: Component#2_001
+    2300080: Component#2_002
+    2300082: Component#2_003
+    2300084: Component#2_004
+    2300086: Component#2_005
+    2300088: Component#2_006
+    2300090: Component#2_007
+    2300092: Component#2_008
+    2300094: Component#2_009
+    2300096: Component#2_010
+    2300098: Component#2_011
+    2300100: Component#2_012
+    2300102: Component#2_013
+    2300104: Component#2_014
+    2300106: COZ_PORTA
+    2300108: ESCADA BARRAS
+    2300110: GAR ESQUADRIA MOLDURA
+    2300112: GAR MOLD JAN008
+    2300114: Group_336
+    2300116: Group_337
+    2300118: Group_338
+    2300120: Group_339
+    2300122: Group_341
+    2300124: Group_343
+    2300126: Group_344
+    2300128: Group_346
+    2300130: Group_348
+    2300132: Group_371
+    2300134: Group_372
+    2300136: Group_579
+    2300138: Janela
+    2300140: Janela_02
+    2300142: JANELA_03
+    2300144: Janela_03
+    2300146: Janela_04
+    2300148: MACANETA002
+    2300150: MACANETA002 1
+    2300152: MACANETA003
+    2300154: MACANETA004
+    2300156: MACANETA005
+    2300158: OBJ_DOBRADICA
+    2300160: OBJ_DOBRADICA 1
+    2300162: OBJ_DOBRADICA001
+    2300164: OBJ_DOBRADICA002
+    2300166: OBJ_DOBRADICA003
+    2300168: OBJ_PORTA
+    2300170: OBJ_PORTA 1
+    2300172: OBJ_PORTA001
+    2300174: OBJ_PORTA002
+    2300176: OBJ_PORTA003
+    2300178: OBJ_PUXADOR
+    2300180: OBJ_PUXADOR 1
+    2300182: OBJ_PUXADOR001
+    2300184: OBJ_PUXADOR002
+    2300186: OBJ_PUXADOR003
+    2300188: Object050
+    2300190: Object051
+    2300192: Object052
+    2300194: Object060
+    3300000: 1PAV ESQ JAN003
+    3300002: 1PAV ESQ PORTA
+    3300004: 1PAV ESQ PORTA003
+    3300006: 1PAV ESQ PORTA006
+    3300008: 1PAV ESQ PORTA008
+    3300010: 1PAV ESQ PORTA009
+    3300012: 1PAV ESQ TRILHO
+    3300014: 1PAV ESQ TRILHO001
+    3300016: 1PAV GC MONT
+    3300018: 1PAV MARQUISE ESTRUT
+    3300020: 1PAV MOLD JAN
+    3300022: 1PAV MOLD JAN002
+    3300024: 1PAV MOLD JAN003
+    3300026: 1PAV MOLD JAN004
+    3300028: 1PAV MOLD JAN005
+    3300030: 1PAV PORTA ACESSO
+    3300032: 1PAV PORTA COM VENEZIANA
+    3300034: 1PAV PUXADOR PORTA ACESSO
+    3300036: 2PAV ESQ PORTA002
+    3300038: 2PAV ESQ TRILHO
+    3300040: 2PAV MOLD JAN008
+    3300042: 2PAV VAR GC001
+    3300044: 2PAV VAR GC002
+    3300046: COB ESQUADRIA VENEZIANA
+    3300048: COB ESQUADRIA VENEZIANA001
+    3300050: Component#1_001
+    3300052: Component#1_002
+    3300054: Component#1_003
+    3300056: Component#1_004
+    3300058: Component#1_005
+    3300060: Component#1_006
+    3300062: Component#1_007
+    3300064: Component#1_008
+    3300066: Component#1_009
+    3300068: Component#1_010
+    3300070: Component#1_011
+    3300072: Component#1_012
+    3300074: Component#1_013
+    3300076: Component#1_014
+    3300078: Component#2_001
+    3300080: Component#2_002
+    3300082: Component#2_003
+    3300084: Component#2_004
+    3300086: Component#2_005
+    3300088: Component#2_006
+    3300090: Component#2_007
+    3300092: Component#2_008
+    3300094: Component#2_009
+    3300096: Component#2_010
+    3300098: Component#2_011
+    3300100: Component#2_012
+    3300102: Component#2_013
+    3300104: Component#2_014
+    3300106: COZ_PORTA
+    3300108: ESCADA BARRAS
+    3300110: GAR ESQUADRIA MOLDURA
+    3300112: GAR MOLD JAN008
+    3300114: Group_336
+    3300116: Group_337
+    3300118: Group_338
+    3300120: Group_339
+    3300122: Group_341
+    3300124: Group_343
+    3300126: Group_344
+    3300128: Group_346
+    3300130: Group_348
+    3300132: Group_371
+    3300134: Group_372
+    3300136: Group_579
+    3300138: Janela
+    3300140: Janela_02
+    3300142: JANELA_03
+    3300144: Janela_03
+    3300146: Janela_04
+    3300148: MACANETA002
+    3300150: MACANETA002 1
+    3300152: MACANETA003
+    3300154: MACANETA004
+    3300156: MACANETA005
+    3300158: OBJ_DOBRADICA
+    3300160: OBJ_DOBRADICA 1
+    3300162: OBJ_DOBRADICA001
+    3300164: OBJ_DOBRADICA002
+    3300166: OBJ_DOBRADICA003
+    3300168: OBJ_PORTA
+    3300170: OBJ_PORTA 1
+    3300172: OBJ_PORTA001
+    3300174: OBJ_PORTA002
+    3300176: OBJ_PORTA003
+    3300178: OBJ_PUXADOR
+    3300180: OBJ_PUXADOR 1
+    3300182: OBJ_PUXADOR001
+    3300184: OBJ_PUXADOR002
+    3300186: OBJ_PUXADOR003
+    3300188: Object050
+    3300190: Object051
+    3300192: Object052
+    3300194: Object060
+    4300000: 1PAV PORTA COM VENEZIANA
+    4300002: COB ESQUADRIA VENEZIANA
+    4300004: 1PAV GC MONT
+    4300006: 1PAV PORTA ACESSO
+    4300008: GAR ESQUADRIA MOLDURA
+    4300010: 1PAV ESQ TRILHO
+    4300012: 1PAV ESQ TRILHO001
+    4300014: 1PAV MOLD JAN
+    4300016: 1PAV MOLD JAN002
+    4300018: 1PAV MOLD JAN003
+    4300020: 1PAV ESQ PORTA
+    4300022: 1PAV PUXADOR PORTA ACESSO
+    4300024: 1PAV ESQ PORTA003
+    4300026: 1PAV MOLD JAN004
+    4300028: 1PAV ESQ PORTA006
+    4300030: 1PAV MOLD JAN005
+    4300032: 1PAV ESQ JAN003
+    4300034: 1PAV ESQ PORTA008
+    4300036: JANELA_03
+    4300038: 1PAV ESQ PORTA009
+    4300040: 2PAV ESQ TRILHO
+    4300042: 2PAV ESQ PORTA002
+    4300044: 2PAV MOLD JAN008
+    4300046: Janela_03
+    4300048: 2PAV VAR GC001
+    4300050: 2PAV VAR GC002
+    4300052: GAR MOLD JAN008
+    4300054: COB ESQUADRIA VENEZIANA001
+    4300056: 1PAV MARQUISE ESTRUT
+    4300058: ESCADA BARRAS
+    4300060: COZ_PORTA
+    4300062: OBJ_PORTA
+    4300064: OBJ_PUXADOR
+    4300066: OBJ_DOBRADICA
+    4300068: MACANETA002
+    4300070: OBJ_PORTA001
+    4300072: OBJ_PUXADOR001
+    4300074: OBJ_DOBRADICA001
+    4300076: MACANETA003
+    4300078: OBJ_PORTA
+    4300080: OBJ_PUXADOR
+    4300082: OBJ_DOBRADICA
+    4300084: MACANETA002
+    4300086: MACANETA004
+    4300088: OBJ_PORTA002
+    4300090: OBJ_PUXADOR002
+    4300092: OBJ_DOBRADICA002
+    4300094: Group_337
+    4300096: Group_338
+    4300098: Group_339
+    4300100: Group_341
+    4300102: Group_343
+    4300104: Group_344
+    4300106: Group_346
+    4300108: Group_348
+    4300110: Group_371
+    4300112: Group_372
+    4300114: Group_336
+    4300116: Group_579
+    4300118: Component#1_001
+    4300120: Component#2_001
+    4300122: Component#1_002
+    4300124: Component#2_002
+    4300126: Component#1_004
+    4300128: Component#2_004
+    4300130: Component#1_005
+    4300132: Component#2_011
+    4300134: Component#2_012
+    4300136: Component#1_013
+    4300138: Component#2_013
+    4300140: Component#1_014
+    4300142: Component#2_014
+    4300144: MACANETA005
+    4300146: OBJ_DOBRADICA003
+    4300148: OBJ_PORTA003
+    4300150: OBJ_PUXADOR003
+    4300152: Janela
+    4300154: Janela_02
+    4300156: Object050
+    4300158: Object051
+    4300160: Janela_04
+    4300162: Object052
+    4300164: Object060
+    4300166: Component#1_003
+    4300168: Component#2_003
+    4300170: Component#2_005
+    4300172: Component#1_006
+    4300174: Component#2_006
+    4300176: Component#1_007
+    4300178: Component#2_007
+    4300180: Component#1_008
+    4300182: Component#2_008
+    4300184: Component#1_009
+    4300186: Component#2_009
+    4300188: Component#1_010
+    4300190: Component#2_010
+    4300192: Component#1_011
+    4300194: Component#1_012
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 0
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
