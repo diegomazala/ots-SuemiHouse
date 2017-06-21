@@ -1,0 +1,164 @@
+fileFormatVersion: 2
+guid: 07e3ecc7593dfb24a8863bcbfda1b097
+timeCreated: 1496203050
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: AI37_008_flowers_001_00
+    100002: AI37_008_flowers_001_02
+    100004: AI37_008_flowers_001_03
+    100006: AI37_008_flowers_001_04
+    100008: AI37_008_flowers_001_05
+    100010: AI37_008_flowers_001_06
+    100012: AI37_008_flowers_001_07
+    100014: AI37_008_flowers_001_08
+    100016: AI37_008_flowers_001_09
+    100018: AI37_008_flowers_001_10
+    100020: AI37_008_flowers_001_11
+    100022: AI37_008_flowers_001_12
+    100024: AI37_008_flowers_001_13
+    100026: AI37_008_flowers_001_14
+    100028: AI37_008_flowers_001_15
+    100030: AI37_008_flowers_001_16
+    100032: AI37_008_flowers_001_17
+    100034: //RootNode
+    400000: AI37_008_flowers_001_00
+    400002: AI37_008_flowers_001_02
+    400004: AI37_008_flowers_001_03
+    400006: AI37_008_flowers_001_04
+    400008: AI37_008_flowers_001_05
+    400010: AI37_008_flowers_001_06
+    400012: AI37_008_flowers_001_07
+    400014: AI37_008_flowers_001_08
+    400016: AI37_008_flowers_001_09
+    400018: AI37_008_flowers_001_10
+    400020: AI37_008_flowers_001_11
+    400022: AI37_008_flowers_001_12
+    400024: AI37_008_flowers_001_13
+    400026: AI37_008_flowers_001_14
+    400028: AI37_008_flowers_001_15
+    400030: AI37_008_flowers_001_16
+    400032: AI37_008_flowers_001_17
+    400034: //RootNode
+    2300000: AI37_008_flowers_001_00
+    2300002: AI37_008_flowers_001_02
+    2300004: AI37_008_flowers_001_03
+    2300006: AI37_008_flowers_001_04
+    2300008: AI37_008_flowers_001_05
+    2300010: AI37_008_flowers_001_06
+    2300012: AI37_008_flowers_001_07
+    2300014: AI37_008_flowers_001_08
+    2300016: AI37_008_flowers_001_09
+    2300018: AI37_008_flowers_001_10
+    2300020: AI37_008_flowers_001_11
+    2300022: AI37_008_flowers_001_12
+    2300024: AI37_008_flowers_001_13
+    2300026: AI37_008_flowers_001_14
+    2300028: AI37_008_flowers_001_15
+    2300030: AI37_008_flowers_001_16
+    2300032: AI37_008_flowers_001_17
+    3300000: AI37_008_flowers_001_00
+    3300002: AI37_008_flowers_001_02
+    3300004: AI37_008_flowers_001_03
+    3300006: AI37_008_flowers_001_04
+    3300008: AI37_008_flowers_001_05
+    3300010: AI37_008_flowers_001_06
+    3300012: AI37_008_flowers_001_07
+    3300014: AI37_008_flowers_001_08
+    3300016: AI37_008_flowers_001_09
+    3300018: AI37_008_flowers_001_10
+    3300020: AI37_008_flowers_001_11
+    3300022: AI37_008_flowers_001_12
+    3300024: AI37_008_flowers_001_13
+    3300026: AI37_008_flowers_001_14
+    3300028: AI37_008_flowers_001_15
+    3300030: AI37_008_flowers_001_16
+    3300032: AI37_008_flowers_001_17
+    4300000: AI37_008_flowers_001_02
+    4300002: AI37_008_flowers_001_03
+    4300004: AI37_008_flowers_001_04
+    4300006: AI37_008_flowers_001_05
+    4300008: AI37_008_flowers_001_06
+    4300010: AI37_008_flowers_001_07
+    4300012: AI37_008_flowers_001_08
+    4300014: AI37_008_flowers_001_09
+    4300016: AI37_008_flowers_001_10
+    4300018: AI37_008_flowers_001_11
+    4300020: AI37_008_flowers_001_12
+    4300022: AI37_008_flowers_001_13
+    4300024: AI37_008_flowers_001_14
+    4300026: AI37_008_flowers_001_00
+    4300028: AI37_008_flowers_001_15
+    4300030: AI37_008_flowers_001_16
+    4300032: AI37_008_flowers_001_17
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,175 @@
+fileFormatVersion: 2
+guid: 101d17b912806754e84e22b0c287d815
+timeCreated: 1496203091
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: AI37_002_book_362
+    100002: AI37_002_book_363
+    100004: AI37_002_book_364
+    100006: AI37_002_book_365
+    100008: AI37_002_book_366
+    100010: AI37_002_book_367
+    100012: AI37_002_book_368
+    100014: AI37_002_book_369
+    100016: AI37_002_flower
+    100018: AI37_002_flower_01
+    100020: AI37_002_flower_02
+    100022: AI37_002_flower_02_MeshPart0
+    100024: AI37_002_flower_02_MeshPart1
+    100026: AI37_002_flower_02_MeshPart2
+    100028: AI37_002_flower_soil
+    100030: AI37_002_flower_soil2
+    100032: AI37_002_flower_soil2_MeshPart0
+    100034: AI37_002_flower_soil2_MeshPart1
+    100036: AI37_002_flower_soil2_MeshPart2
+    100038: AI37_002_pot_bamboo
+    100040: AI37_002_table
+    100042: //RootNode
+    400000: AI37_002_book_362
+    400002: AI37_002_book_363
+    400004: AI37_002_book_364
+    400006: AI37_002_book_365
+    400008: AI37_002_book_366
+    400010: AI37_002_book_367
+    400012: AI37_002_book_368
+    400014: AI37_002_book_369
+    400016: AI37_002_flower
+    400018: AI37_002_flower_01
+    400020: AI37_002_flower_02
+    400022: AI37_002_flower_02_MeshPart0
+    400024: AI37_002_flower_02_MeshPart1
+    400026: AI37_002_flower_02_MeshPart2
+    400028: AI37_002_flower_soil
+    400030: AI37_002_flower_soil2
+    400032: AI37_002_flower_soil2_MeshPart0
+    400034: AI37_002_flower_soil2_MeshPart1
+    400036: AI37_002_flower_soil2_MeshPart2
+    400038: AI37_002_pot_bamboo
+    400040: AI37_002_table
+    400042: //RootNode
+    2300000: AI37_002_book_362
+    2300002: AI37_002_book_363
+    2300004: AI37_002_book_364
+    2300006: AI37_002_book_365
+    2300008: AI37_002_book_366
+    2300010: AI37_002_book_367
+    2300012: AI37_002_book_368
+    2300014: AI37_002_book_369
+    2300016: AI37_002_flower_01
+    2300018: AI37_002_flower_02_MeshPart0
+    2300020: AI37_002_flower_02_MeshPart1
+    2300022: AI37_002_flower_02_MeshPart2
+    2300024: AI37_002_flower_soil
+    2300026: AI37_002_flower_soil2_MeshPart0
+    2300028: AI37_002_flower_soil2_MeshPart1
+    2300030: AI37_002_flower_soil2_MeshPart2
+    2300032: AI37_002_pot_bamboo
+    2300034: AI37_002_table
+    3300000: AI37_002_book_362
+    3300002: AI37_002_book_363
+    3300004: AI37_002_book_364
+    3300006: AI37_002_book_365
+    3300008: AI37_002_book_366
+    3300010: AI37_002_book_367
+    3300012: AI37_002_book_368
+    3300014: AI37_002_book_369
+    3300016: AI37_002_flower_01
+    3300018: AI37_002_flower_02_MeshPart0
+    3300020: AI37_002_flower_02_MeshPart1
+    3300022: AI37_002_flower_02_MeshPart2
+    3300024: AI37_002_flower_soil
+    3300026: AI37_002_flower_soil2_MeshPart0
+    3300028: AI37_002_flower_soil2_MeshPart1
+    3300030: AI37_002_flower_soil2_MeshPart2
+    3300032: AI37_002_pot_bamboo
+    3300034: AI37_002_table
+    4300000: AI37_002_table
+    4300002: AI37_002_book_369
+    4300004: AI37_002_flower_02_MeshPart0
+    4300006: AI37_002_flower_02_MeshPart1
+    4300008: AI37_002_flower_02_MeshPart2
+    4300010: AI37_002_flower_01
+    4300012: AI37_002_flower_soil2_MeshPart0
+    4300014: AI37_002_flower_soil2_MeshPart1
+    4300016: AI37_002_flower_soil2_MeshPart2
+    4300018: AI37_002_flower_soil
+    4300020: AI37_002_pot_bamboo
+    4300022: AI37_002_book_368
+    4300024: AI37_002_book_362
+    4300026: AI37_002_book_363
+    4300028: AI37_002_book_364
+    4300030: AI37_002_book_365
+    4300032: AI37_002_book_366
+    4300034: AI37_002_book_367
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
