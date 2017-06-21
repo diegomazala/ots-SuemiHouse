@@ -1,0 +1,191 @@
+fileFormatVersion: 2
+guid: dbb5e9b94e09d7b48930d883ed35cd33
+timeCreated: 1497158326
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: AI_027_008_sofa_001_obj_032
+    100002: AI_027_008_sofa_001_obj_035
+    100004: AI_027_008_sofa_001_obj_036
+    100006: AI_027_008_sofa_001_obj_037
+    100008: AI_027_008_sofa_001_obj_038
+    100010: AI_027_008_sofa_001_obj_039
+    100012: AI_027_008_sofa_001_obj_040
+    100014: AI_027_008_sofa_001_obj_041
+    100016: AI_027_008_sofa_001_obj_042
+    100018: AI_027_008_sofa_001_obj_047
+    100020: AI_027_008_sofa_001_obj_049
+    100022: AI_027_008_sofa_001_obj_050
+    100024: AI_027_008_sofa_001_obj_051
+    100026: AI_027_008_sofa_001_obj_052
+    100028: AI_027_008_sofa_001_obj_054
+    100030: AI_027_008_sofa_001_obj_056
+    100032: AI_027_008_sofa_001_obj_057
+    100034: AI_027_008_sofa_001_obj_061
+    100036: AI_027_008_sofa_001_obj_062
+    100038: AI_027_008_sofa_001_obj_063
+    100040: AI_027_008_sofa_001_obj_064
+    100042: Object003
+    100044: SOFASEstar
+    100046: //RootNode
+    400000: AI_027_008_sofa_001_obj_032
+    400002: AI_027_008_sofa_001_obj_035
+    400004: AI_027_008_sofa_001_obj_036
+    400006: AI_027_008_sofa_001_obj_037
+    400008: AI_027_008_sofa_001_obj_038
+    400010: AI_027_008_sofa_001_obj_039
+    400012: AI_027_008_sofa_001_obj_040
+    400014: AI_027_008_sofa_001_obj_041
+    400016: AI_027_008_sofa_001_obj_042
+    400018: AI_027_008_sofa_001_obj_047
+    400020: AI_027_008_sofa_001_obj_049
+    400022: AI_027_008_sofa_001_obj_050
+    400024: AI_027_008_sofa_001_obj_051
+    400026: AI_027_008_sofa_001_obj_052
+    400028: AI_027_008_sofa_001_obj_054
+    400030: AI_027_008_sofa_001_obj_056
+    400032: AI_027_008_sofa_001_obj_057
+    400034: AI_027_008_sofa_001_obj_061
+    400036: AI_027_008_sofa_001_obj_062
+    400038: AI_027_008_sofa_001_obj_063
+    400040: AI_027_008_sofa_001_obj_064
+    400042: Object003
+    400044: SOFASEstar
+    400046: //RootNode
+    2300000: AI_027_008_sofa_001_obj_032
+    2300002: AI_027_008_sofa_001_obj_035
+    2300004: AI_027_008_sofa_001_obj_036
+    2300006: AI_027_008_sofa_001_obj_037
+    2300008: AI_027_008_sofa_001_obj_038
+    2300010: AI_027_008_sofa_001_obj_039
+    2300012: AI_027_008_sofa_001_obj_040
+    2300014: AI_027_008_sofa_001_obj_041
+    2300016: AI_027_008_sofa_001_obj_042
+    2300018: AI_027_008_sofa_001_obj_047
+    2300020: AI_027_008_sofa_001_obj_049
+    2300022: AI_027_008_sofa_001_obj_050
+    2300024: AI_027_008_sofa_001_obj_051
+    2300026: AI_027_008_sofa_001_obj_052
+    2300028: AI_027_008_sofa_001_obj_054
+    2300030: AI_027_008_sofa_001_obj_056
+    2300032: AI_027_008_sofa_001_obj_057
+    2300034: AI_027_008_sofa_001_obj_061
+    2300036: AI_027_008_sofa_001_obj_062
+    2300038: AI_027_008_sofa_001_obj_063
+    2300040: AI_027_008_sofa_001_obj_064
+    2300042: Object003
+    3300000: AI_027_008_sofa_001_obj_032
+    3300002: AI_027_008_sofa_001_obj_035
+    3300004: AI_027_008_sofa_001_obj_036
+    3300006: AI_027_008_sofa_001_obj_037
+    3300008: AI_027_008_sofa_001_obj_038
+    3300010: AI_027_008_sofa_001_obj_039
+    3300012: AI_027_008_sofa_001_obj_040
+    3300014: AI_027_008_sofa_001_obj_041
+    3300016: AI_027_008_sofa_001_obj_042
+    3300018: AI_027_008_sofa_001_obj_047
+    3300020: AI_027_008_sofa_001_obj_049
+    3300022: AI_027_008_sofa_001_obj_050
+    3300024: AI_027_008_sofa_001_obj_051
+    3300026: AI_027_008_sofa_001_obj_052
+    3300028: AI_027_008_sofa_001_obj_054
+    3300030: AI_027_008_sofa_001_obj_056
+    3300032: AI_027_008_sofa_001_obj_057
+    3300034: AI_027_008_sofa_001_obj_061
+    3300036: AI_027_008_sofa_001_obj_062
+    3300038: AI_027_008_sofa_001_obj_063
+    3300040: AI_027_008_sofa_001_obj_064
+    3300042: Object003
+    4300000: Object003
+    4300002: AI_027_008_sofa_001_obj_047
+    4300004: AI_027_008_sofa_001_obj_042
+    4300006: AI_027_008_sofa_001_obj_041
+    4300008: AI_027_008_sofa_001_obj_040
+    4300010: AI_027_008_sofa_001_obj_039
+    4300012: AI_027_008_sofa_001_obj_038
+    4300014: AI_027_008_sofa_001_obj_037
+    4300016: AI_027_008_sofa_001_obj_036
+    4300018: AI_027_008_sofa_001_obj_035
+    4300020: AI_027_008_sofa_001_obj_032
+    4300022: AI_027_008_sofa_001_obj_062
+    4300024: AI_027_008_sofa_001_obj_061
+    4300026: AI_027_008_sofa_001_obj_057
+    4300028: AI_027_008_sofa_001_obj_056
+    4300030: AI_027_008_sofa_001_obj_054
+    4300032: AI_027_008_sofa_001_obj_052
+    4300034: AI_027_008_sofa_001_obj_051
+    4300036: AI_027_008_sofa_001_obj_050
+    4300038: AI_027_008_sofa_001_obj_049
+    4300040: AI_027_008_sofa_001_obj_063
+    4300042: AI_027_008_sofa_001_obj_064
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
