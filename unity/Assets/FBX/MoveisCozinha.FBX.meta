@@ -1,0 +1,339 @@
+fileFormatVersion: 2
+guid: 2eca27697a37f5f41b6c95b94fe75b0c
+timeCreated: 1493876082
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: '@ESPELHO'
+    100002: ArchModels_68_018_obj_025
+    100004: ArchModels_68_018_obj_026
+    100006: ArchModels_68_018_obj_027
+    100008: ArchModels_68_018_obj_028
+    100010: ArchModels_68_018_obj_029
+    100012: ArchModels_68_018_obj_030
+    100014: ArchModels_68_018_obj_031
+    100016: ArchModels_68_018_obj_032
+    100018: ArchModels_68_018_obj_033
+    100020: ArchModels_68_018_obj_034
+    100022: ArchModels_68_018_obj_035
+    100024: ArchModels_68_018_obj_036
+    100026: ArchModels_68_018_obj_037
+    100028: ArchModels_68_018_obj_038
+    100030: ArchModels_68_018_obj_039
+    100032: ArchModels_68_018_obj_040
+    100034: ArchModels_68_018_obj_041
+    100036: ArchModels_68_018_obj_042
+    100038: ArchModels_68_018_obj_043
+    100040: ArchModels_68_018_obj_044
+    100042: ArchModels_68_018_obj_045
+    100044: ArchModels_68_018_obj_046
+    100046: ArchModels_68_018_obj_047
+    100048: ArchModels_68_049_obj_001
+    100050: ArchModels_68_049_obj_002
+    100052: ArchModels_68_049_obj_003
+    100054: ArchModels_68_049_obj_004
+    100056: ArchModels_68_049_obj_006
+    100058: ArchModels_68_049_obj_011
+    100060: ArchModels_68_049_obj_012
+    100062: ArchModels_68_049_obj_013
+    100064: ArchModels_68_049_obj_015
+    100066: ArchModels_68_049_obj_016
+    100068: ArchModels_68_049_obj_017
+    100070: ARQ ARMARIO TETO
+    100072: BANCADA
+    100074: CADEIRA BARRAS HORIZ004
+    100076: CADEIRA BARRAS HORIZ005
+    100078: CADEIRA BARRAS HORIZ006
+    100080: CADEIRA BARRAS HORIZ007
+    100082: CADEIRA BARRAS HORIZ008
+    100084: CADEIRA BARRAS004
+    100086: CADEIRA BARRAS005
+    100088: CADEIRA BARRAS006
+    100090: CADEIRA BARRAS007
+    100092: CADEIRA BARRAS008
+    100094: CADEIRA ESTOFADO004
+    100096: CADEIRA ESTOFADO005
+    100098: CADEIRA ESTOFADO006
+    100100: CADEIRA ESTOFADO007
+    100102: CADEIRA ESTOFADO008
+    100104: MOB CADEIRA ARAMADA004
+    100106: MOB CADEIRA ARAMADA005
+    100108: MOB CADEIRA ARAMADA006
+    100110: MOB CADEIRA ARAMADA007
+    100112: MOB CADEIRA ARAMADA008
+    100114: MOB COIFA
+    100116: //RootNode
+    100118: Object_128
+    100120: Pad_017
+    100122: Pad_018
+    100124: Pad_019
+    100126: Pad_020
+    100128: Pad_021
+    100130: Pad_022
+    100132: Pad_023
+    100134: Pad_024
+    100136: Pad_025
+    100138: Pad_026
+    100140: SPOTS 014
+    400000: '@ESPELHO'
+    400002: ArchModels_68_018_obj_025
+    400004: ArchModels_68_018_obj_026
+    400006: ArchModels_68_018_obj_027
+    400008: ArchModels_68_018_obj_028
+    400010: ArchModels_68_018_obj_029
+    400012: ArchModels_68_018_obj_030
+    400014: ArchModels_68_018_obj_031
+    400016: ArchModels_68_018_obj_032
+    400018: ArchModels_68_018_obj_033
+    400020: ArchModels_68_018_obj_034
+    400022: ArchModels_68_018_obj_035
+    400024: ArchModels_68_018_obj_036
+    400026: ArchModels_68_018_obj_037
+    400028: ArchModels_68_018_obj_038
+    400030: ArchModels_68_018_obj_039
+    400032: ArchModels_68_018_obj_040
+    400034: ArchModels_68_018_obj_041
+    400036: ArchModels_68_018_obj_042
+    400038: ArchModels_68_018_obj_043
+    400040: ArchModels_68_018_obj_044
+    400042: ArchModels_68_018_obj_045
+    400044: ArchModels_68_018_obj_046
+    400046: ArchModels_68_018_obj_047
+    400048: ArchModels_68_049_obj_001
+    400050: ArchModels_68_049_obj_002
+    400052: ArchModels_68_049_obj_003
+    400054: ArchModels_68_049_obj_004
+    400056: ArchModels_68_049_obj_006
+    400058: ArchModels_68_049_obj_011
+    400060: ArchModels_68_049_obj_012
+    400062: ArchModels_68_049_obj_013
+    400064: ArchModels_68_049_obj_015
+    400066: ArchModels_68_049_obj_016
+    400068: ArchModels_68_049_obj_017
+    400070: ARQ ARMARIO TETO
+    400072: BANCADA
+    400074: CADEIRA BARRAS HORIZ004
+    400076: CADEIRA BARRAS HORIZ005
+    400078: CADEIRA BARRAS HORIZ006
+    400080: CADEIRA BARRAS HORIZ007
+    400082: CADEIRA BARRAS HORIZ008
+    400084: CADEIRA BARRAS004
+    400086: CADEIRA BARRAS005
+    400088: CADEIRA BARRAS006
+    400090: CADEIRA BARRAS007
+    400092: CADEIRA BARRAS008
+    400094: CADEIRA ESTOFADO004
+    400096: CADEIRA ESTOFADO005
+    400098: CADEIRA ESTOFADO006
+    400100: CADEIRA ESTOFADO007
+    400102: CADEIRA ESTOFADO008
+    400104: MOB CADEIRA ARAMADA004
+    400106: MOB CADEIRA ARAMADA005
+    400108: MOB CADEIRA ARAMADA006
+    400110: MOB CADEIRA ARAMADA007
+    400112: MOB CADEIRA ARAMADA008
+    400114: MOB COIFA
+    400116: //RootNode
+    400118: Object_128
+    400120: Pad_017
+    400122: Pad_018
+    400124: Pad_019
+    400126: Pad_020
+    400128: Pad_021
+    400130: Pad_022
+    400132: Pad_023
+    400134: Pad_024
+    400136: Pad_025
+    400138: Pad_026
+    400140: SPOTS 014
+    2300000: '@ESPELHO'
+    2300002: ArchModels_68_018_obj_025
+    2300004: ArchModels_68_018_obj_026
+    2300006: ArchModels_68_018_obj_027
+    2300008: ArchModels_68_018_obj_028
+    2300010: ArchModels_68_018_obj_030
+    2300012: ArchModels_68_018_obj_031
+    2300014: ArchModels_68_018_obj_032
+    2300016: ArchModels_68_018_obj_033
+    2300018: ArchModels_68_018_obj_034
+    2300020: ArchModels_68_018_obj_035
+    2300022: ArchModels_68_018_obj_036
+    2300024: ArchModels_68_018_obj_037
+    2300026: ArchModels_68_018_obj_038
+    2300028: ArchModels_68_018_obj_039
+    2300030: ArchModels_68_018_obj_040
+    2300032: ArchModels_68_018_obj_041
+    2300034: ArchModels_68_018_obj_044
+    2300036: ArchModels_68_049_obj_001
+    2300038: ArchModels_68_049_obj_003
+    2300040: ArchModels_68_049_obj_004
+    2300042: ArchModels_68_049_obj_006
+    2300044: ArchModels_68_049_obj_011
+    2300046: ArchModels_68_049_obj_012
+    2300048: ArchModels_68_049_obj_013
+    2300050: ArchModels_68_049_obj_017
+    2300052: ARQ ARMARIO TETO
+    2300054: BANCADA
+    2300056: CADEIRA BARRAS004
+    2300058: CADEIRA BARRAS005
+    2300060: CADEIRA BARRAS006
+    2300062: CADEIRA BARRAS007
+    2300064: CADEIRA BARRAS008
+    2300066: CADEIRA ESTOFADO004
+    2300068: CADEIRA ESTOFADO005
+    2300070: CADEIRA ESTOFADO006
+    2300072: CADEIRA ESTOFADO007
+    2300074: CADEIRA ESTOFADO008
+    2300076: Object_128
+    2300078: SPOTS 014
+    3300000: '@ESPELHO'
+    3300002: ArchModels_68_018_obj_025
+    3300004: ArchModels_68_018_obj_026
+    3300006: ArchModels_68_018_obj_027
+    3300008: ArchModels_68_018_obj_028
+    3300010: ArchModels_68_018_obj_030
+    3300012: ArchModels_68_018_obj_031
+    3300014: ArchModels_68_018_obj_032
+    3300016: ArchModels_68_018_obj_033
+    3300018: ArchModels_68_018_obj_034
+    3300020: ArchModels_68_018_obj_035
+    3300022: ArchModels_68_018_obj_036
+    3300024: ArchModels_68_018_obj_037
+    3300026: ArchModels_68_018_obj_038
+    3300028: ArchModels_68_018_obj_039
+    3300030: ArchModels_68_018_obj_040
+    3300032: ArchModels_68_018_obj_041
+    3300034: ArchModels_68_018_obj_044
+    3300036: ArchModels_68_049_obj_001
+    3300038: ArchModels_68_049_obj_003
+    3300040: ArchModels_68_049_obj_004
+    3300042: ArchModels_68_049_obj_006
+    3300044: ArchModels_68_049_obj_011
+    3300046: ArchModels_68_049_obj_012
+    3300048: ArchModels_68_049_obj_013
+    3300050: ArchModels_68_049_obj_017
+    3300052: ARQ ARMARIO TETO
+    3300054: BANCADA
+    3300056: CADEIRA BARRAS004
+    3300058: CADEIRA BARRAS005
+    3300060: CADEIRA BARRAS006
+    3300062: CADEIRA BARRAS007
+    3300064: CADEIRA BARRAS008
+    3300066: CADEIRA ESTOFADO004
+    3300068: CADEIRA ESTOFADO005
+    3300070: CADEIRA ESTOFADO006
+    3300072: CADEIRA ESTOFADO007
+    3300074: CADEIRA ESTOFADO008
+    3300076: Object_128
+    3300078: SPOTS 014
+    4300000: BANCADA
+    4300002: ArchModels_68_018_obj_025
+    4300004: ArchModels_68_018_obj_026
+    4300006: ArchModels_68_018_obj_027
+    4300008: ArchModels_68_018_obj_028
+    4300010: ArchModels_68_018_obj_030
+    4300012: ArchModels_68_018_obj_031
+    4300014: ArchModels_68_018_obj_032
+    4300016: ArchModels_68_018_obj_033
+    4300018: ArchModels_68_018_obj_034
+    4300020: ArchModels_68_018_obj_035
+    4300022: ArchModels_68_018_obj_036
+    4300024: ArchModels_68_018_obj_037
+    4300026: ArchModels_68_018_obj_038
+    4300028: ArchModels_68_018_obj_039
+    4300030: ArchModels_68_018_obj_040
+    4300032: ArchModels_68_018_obj_041
+    4300034: ArchModels_68_018_obj_044
+    4300036: ArchModels_68_049_obj_003
+    4300038: ArchModels_68_049_obj_004
+    4300040: ArchModels_68_049_obj_006
+    4300042: ArchModels_68_049_obj_001
+    4300044: ArchModels_68_049_obj_011
+    4300046: ArchModels_68_049_obj_012
+    4300048: ArchModels_68_049_obj_013
+    4300050: ArchModels_68_049_obj_017
+    4300052: '@ESPELHO'
+    4300054: SPOTS 014
+    4300056: Object_128
+    4300058: ARQ ARMARIO TETO
+    4300060: CADEIRA ESTOFADO004
+    4300062: CADEIRA BARRAS004
+    4300064: CADEIRA ESTOFADO005
+    4300066: CADEIRA BARRAS005
+    4300068: CADEIRA BARRAS006
+    4300070: CADEIRA ESTOFADO006
+    4300072: CADEIRA BARRAS007
+    4300074: CADEIRA ESTOFADO007
+    4300076: CADEIRA BARRAS008
+    4300078: CADEIRA ESTOFADO008
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

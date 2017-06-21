@@ -1,0 +1,456 @@
+fileFormatVersion: 2
+guid: cc58028a66f7c29468549661c8aaac9c
+timeCreated: 1493274198
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Arch26_069_Obj_00
+    100002: Arch26_069_Obj_007
+    100004: Arch26_069_Obj_008
+    100006: Arch26_069_Obj_009
+    100008: Arch26_069_Obj_01
+    100010: Arch26_069_Obj_010
+    100012: Arch26_069_Obj_011
+    100014: Arch26_069_Obj_012
+    100016: Arch26_069_Obj_013
+    100018: Arch26_069_Obj_02
+    100020: Arch26_069_Obj_03
+    100022: Arch26_069_Obj_04
+    100024: Arch26_069_Obj_05
+    100026: Arch26_069_Obj_06
+    100028: Arch41_050_obj_1
+    100030: Arch41_050_obj_2
+    100032: arch75_020_005
+    100034: arch75_020_006
+    100036: arch75_020_007
+    100038: arch75_020_008
+    100040: Cylinder01
+    100042: Cylinder03
+    100044: Line01
+    100046: Line02
+    100048: Line03
+    100050: MOB CADEIRA VAR
+    100052: MOB CADEIRA VAR001
+    100054: MOB MESA CENTRO
+    100056: MOB POLTRONA001
+    100058: MOB PRATELEIRA
+    100060: MOB PUFF002
+    100062: MOB_SOFA DIVAN
+    100064: MOB_SOFA DIVAN_MeshPart0
+    100066: MOB_SOFA DIVAN_MeshPart1
+    100068: MOB_SOFA DIVAN_MeshPart2
+    100070: //RootNode
+    100072: OBJ CORTINA002
+    100074: OBJ TAPETE
+    100076: obj_005
+    100078: obj_006
+    100080: obj_007
+    100082: obj_008
+    100084: obj_009
+    100086: obj_01
+    100088: obj_010
+    100090: obj_02
+    100092: obj_03
+    100094: obj_04
+    100096: obj_05
+    100098: obj_07
+    100100: obj_08
+    100102: objArmchair_12_Mesh_01
+    100104: objArmchair_12_Mesh_02
+    100106: objArmchair_12_Mesh_03
+    100108: objArmchair_12_Mesh_04
+    100110: table
+    100112: TAPETE
+    100114: VEG FOLHAGEM
+    100116: VEG VASO RAPHIS
+    100118: Object061
+    100120: Object062
+    100122: Object063
+    100124: Object064
+    100126: Object065
+    100128: Object066
+    100130: Object067
+    100132: Object068
+    100134: Object069
+    100136: Object070
+    100138: Object071
+    100140: Object072
+    100142: Object073
+    100144: Object074
+    100146: Object075
+    100148: Object076
+    100150: Object077
+    100152: Object078
+    100154: Object079
+    100156: Object080
+    100158: Object081
+    100160: Sofa
+    100162: Dummy002
+    100164: Buffet
+    400000: Arch26_069_Obj_00
+    400002: Arch26_069_Obj_007
+    400004: Arch26_069_Obj_008
+    400006: Arch26_069_Obj_009
+    400008: Arch26_069_Obj_01
+    400010: Arch26_069_Obj_010
+    400012: Arch26_069_Obj_011
+    400014: Arch26_069_Obj_012
+    400016: Arch26_069_Obj_013
+    400018: Arch26_069_Obj_02
+    400020: Arch26_069_Obj_03
+    400022: Arch26_069_Obj_04
+    400024: Arch26_069_Obj_05
+    400026: Arch26_069_Obj_06
+    400028: Arch41_050_obj_1
+    400030: Arch41_050_obj_2
+    400032: arch75_020_005
+    400034: arch75_020_006
+    400036: arch75_020_007
+    400038: arch75_020_008
+    400040: Cylinder01
+    400042: Cylinder03
+    400044: Line01
+    400046: Line02
+    400048: Line03
+    400050: MOB CADEIRA VAR
+    400052: MOB CADEIRA VAR001
+    400054: MOB MESA CENTRO
+    400056: MOB POLTRONA001
+    400058: MOB PRATELEIRA
+    400060: MOB PUFF002
+    400062: MOB_SOFA DIVAN
+    400064: MOB_SOFA DIVAN_MeshPart0
+    400066: MOB_SOFA DIVAN_MeshPart1
+    400068: MOB_SOFA DIVAN_MeshPart2
+    400070: //RootNode
+    400072: OBJ CORTINA002
+    400074: OBJ TAPETE
+    400076: obj_005
+    400078: obj_006
+    400080: obj_007
+    400082: obj_008
+    400084: obj_009
+    400086: obj_01
+    400088: obj_010
+    400090: obj_02
+    400092: obj_03
+    400094: obj_04
+    400096: obj_05
+    400098: obj_07
+    400100: obj_08
+    400102: objArmchair_12_Mesh_01
+    400104: objArmchair_12_Mesh_02
+    400106: objArmchair_12_Mesh_03
+    400108: objArmchair_12_Mesh_04
+    400110: table
+    400112: TAPETE
+    400114: VEG FOLHAGEM
+    400116: VEG VASO RAPHIS
+    400118: Object061
+    400120: Object062
+    400122: Object063
+    400124: Object064
+    400126: Object065
+    400128: Object066
+    400130: Object067
+    400132: Object068
+    400134: Object069
+    400136: Object070
+    400138: Object071
+    400140: Object072
+    400142: Object073
+    400144: Object074
+    400146: Object075
+    400148: Object076
+    400150: Object077
+    400152: Object078
+    400154: Object079
+    400156: Object080
+    400158: Object081
+    400160: Sofa
+    400162: Dummy002
+    400164: Buffet
+    2300000: Arch26_069_Obj_00
+    2300002: Arch26_069_Obj_007
+    2300004: Arch26_069_Obj_008
+    2300006: Arch26_069_Obj_009
+    2300008: Arch26_069_Obj_01
+    2300010: Arch26_069_Obj_010
+    2300012: Arch26_069_Obj_011
+    2300014: Arch26_069_Obj_012
+    2300016: Arch26_069_Obj_013
+    2300018: Arch26_069_Obj_02
+    2300020: Arch26_069_Obj_03
+    2300022: Arch26_069_Obj_04
+    2300024: Arch26_069_Obj_05
+    2300026: Arch26_069_Obj_06
+    2300028: Arch41_050_obj_1
+    2300030: Arch41_050_obj_2
+    2300032: arch75_020_005
+    2300034: arch75_020_006
+    2300036: arch75_020_007
+    2300038: arch75_020_008
+    2300040: Cylinder01
+    2300042: Cylinder03
+    2300044: Line01
+    2300046: Line02
+    2300048: Line03
+    2300050: MOB MESA CENTRO
+    2300052: MOB PRATELEIRA
+    2300054: MOB_SOFA DIVAN_MeshPart0
+    2300056: MOB_SOFA DIVAN_MeshPart1
+    2300058: MOB_SOFA DIVAN_MeshPart2
+    2300060: OBJ CORTINA002
+    2300062: OBJ TAPETE
+    2300064: obj_005
+    2300066: obj_006
+    2300068: obj_007
+    2300070: obj_008
+    2300072: obj_009
+    2300074: obj_01
+    2300076: obj_010
+    2300078: obj_02
+    2300080: obj_03
+    2300082: obj_04
+    2300084: obj_05
+    2300086: obj_07
+    2300088: obj_08
+    2300090: objArmchair_12_Mesh_01
+    2300092: objArmchair_12_Mesh_02
+    2300094: objArmchair_12_Mesh_03
+    2300096: objArmchair_12_Mesh_04
+    2300098: MOB_SOFA DIVAN
+    2300100: Object061
+    2300102: Object062
+    2300104: Object063
+    2300106: Object064
+    2300108: Object065
+    2300110: Object066
+    2300112: Object067
+    2300114: Object068
+    2300116: Object069
+    2300118: Object070
+    2300120: Object071
+    2300122: Object072
+    2300124: Object073
+    2300126: Object074
+    2300128: Object075
+    2300130: Object076
+    2300132: Object077
+    2300134: Object078
+    2300136: Object079
+    2300138: Object080
+    2300140: Object081
+    3300000: Arch26_069_Obj_00
+    3300002: Arch26_069_Obj_007
+    3300004: Arch26_069_Obj_008
+    3300006: Arch26_069_Obj_009
+    3300008: Arch26_069_Obj_01
+    3300010: Arch26_069_Obj_010
+    3300012: Arch26_069_Obj_011
+    3300014: Arch26_069_Obj_012
+    3300016: Arch26_069_Obj_013
+    3300018: Arch26_069_Obj_02
+    3300020: Arch26_069_Obj_03
+    3300022: Arch26_069_Obj_04
+    3300024: Arch26_069_Obj_05
+    3300026: Arch26_069_Obj_06
+    3300028: Arch41_050_obj_1
+    3300030: Arch41_050_obj_2
+    3300032: arch75_020_005
+    3300034: arch75_020_006
+    3300036: arch75_020_007
+    3300038: arch75_020_008
+    3300040: Cylinder01
+    3300042: Cylinder03
+    3300044: Line01
+    3300046: Line02
+    3300048: Line03
+    3300050: MOB MESA CENTRO
+    3300052: MOB PRATELEIRA
+    3300054: MOB_SOFA DIVAN_MeshPart0
+    3300056: MOB_SOFA DIVAN_MeshPart1
+    3300058: MOB_SOFA DIVAN_MeshPart2
+    3300060: OBJ CORTINA002
+    3300062: OBJ TAPETE
+    3300064: obj_005
+    3300066: obj_006
+    3300068: obj_007
+    3300070: obj_008
+    3300072: obj_009
+    3300074: obj_01
+    3300076: obj_010
+    3300078: obj_02
+    3300080: obj_03
+    3300082: obj_04
+    3300084: obj_05
+    3300086: obj_07
+    3300088: obj_08
+    3300090: objArmchair_12_Mesh_01
+    3300092: objArmchair_12_Mesh_02
+    3300094: objArmchair_12_Mesh_03
+    3300096: objArmchair_12_Mesh_04
+    3300098: MOB_SOFA DIVAN
+    3300100: Object061
+    3300102: Object062
+    3300104: Object063
+    3300106: Object064
+    3300108: Object065
+    3300110: Object066
+    3300112: Object067
+    3300114: Object068
+    3300116: Object069
+    3300118: Object070
+    3300120: Object071
+    3300122: Object072
+    3300124: Object073
+    3300126: Object074
+    3300128: Object075
+    3300130: Object076
+    3300132: Object077
+    3300134: Object078
+    3300136: Object079
+    3300138: Object080
+    3300140: Object081
+    4300000: Arch26_069_Obj_00
+    4300002: Arch26_069_Obj_01
+    4300004: Arch26_069_Obj_02
+    4300006: Arch26_069_Obj_03
+    4300008: Arch26_069_Obj_04
+    4300010: Arch26_069_Obj_05
+    4300012: Arch26_069_Obj_06
+    4300014: Arch26_069_Obj_013
+    4300016: Cylinder03
+    4300018: Line02
+    4300020: Cylinder01
+    4300022: MOB MESA CENTRO
+    4300024: OBJ TAPETE
+    4300026: MOB_SOFA DIVAN_MeshPart0
+    4300028: MOB_SOFA DIVAN_MeshPart1
+    4300030: MOB_SOFA DIVAN_MeshPart2
+    4300032: obj_04
+    4300034: obj_01
+    4300036: obj_02
+    4300038: obj_03
+    4300040: objArmchair_12_Mesh_04
+    4300042: objArmchair_12_Mesh_01
+    4300044: objArmchair_12_Mesh_02
+    4300046: objArmchair_12_Mesh_03
+    4300048: MOB PRATELEIRA
+    4300050: arch75_020_005
+    4300052: arch75_020_006
+    4300054: Arch41_050_obj_1
+    4300056: Arch41_050_obj_2
+    4300058: OBJ CORTINA002
+    4300060: obj_08
+    4300062: obj_07
+    4300064: obj_008
+    4300066: obj_005
+    4300068: obj_006
+    4300070: obj_007
+    4300072: obj_05
+    4300074: obj_009
+    4300076: obj_010
+    4300078: Arch26_069_Obj_007
+    4300080: Arch26_069_Obj_008
+    4300082: Arch26_069_Obj_009
+    4300084: Arch26_069_Obj_010
+    4300086: Arch26_069_Obj_011
+    4300088: Arch26_069_Obj_012
+    4300090: Line03
+    4300092: Line01
+    4300094: arch75_020_007
+    4300096: arch75_020_008
+    4300098: Object061
+    4300100: Object062
+    4300102: Object063
+    4300104: Object064
+    4300106: Object065
+    4300108: Object066
+    4300110: MOB_SOFA DIVAN
+    4300112: Object067
+    4300114: Object068
+    4300116: Object074
+    4300118: Object069
+    4300120: Object075
+    4300122: Object076
+    4300124: Object073
+    4300126: Object077
+    4300128: Object078
+    4300130: Object070
+    4300132: Object079
+    4300134: Object081
+    4300136: Object080
+    4300138: Object071
+    4300140: Object072
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

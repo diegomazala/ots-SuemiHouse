@@ -1,0 +1,398 @@
+fileFormatVersion: 2
+guid: 4a27072a7c1a46e4a8c81793e169c69f
+timeCreated: 1496894684
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: AI_027_008_artworks_01_obj_007
+    100002: AI_027_008_artworks_01_obj_008
+    100004: AI_027_008_artworks_01_obj_009
+    100006: AI_027_008_artworks_01_obj_01
+    100008: AI_027_008_artworks_01_obj_010
+    100010: AI_027_008_artworks_01_obj_011
+    100012: AI_027_008_artworks_01_obj_03
+    100014: AI_027_008_artworks_01_obj_04
+    100016: AI_027_008_artworks_01_obj_05
+    100018: AI_027_008_artworks_01_obj_06
+    100020: AI_027_008_artworks_02_obj_01
+    100022: AI_027_008_artworks_02_obj_03
+    100024: AI_027_008_artworks_02_obj_04
+    100026: AI_027_008_artworks_02_obj_05
+    100028: AI_027_008_artworks_02_obj_06
+    100030: Arch43_089_obj_01
+    100032: Arch43_089_obj_02
+    100034: Arch43_089_obj_03
+    100036: Arch43_089_obj_04
+    100038: Arch43_089_obj_05
+    100040: Arch43_089_obj_06
+    100042: Arch43_089_obj_07
+    100044: Arch43_089_obj_08
+    100046: Arch43_089_obj_09
+    100048: Arch43_089_obj_10
+    100050: Arch43_089_obj_11
+    100052: Arch43_089_obj_12
+    100054: Arch43_089_obj_13
+    100056: Arch43_089_obj_14
+    100058: Arch43_089_obj_15
+    100060: Arch43_089_obj_16
+    100062: Arch43_089_obj_17
+    100064: Arch43_089_obj_18
+    100066: Arch43_089_obj_19
+    100068: Arch43_089_obj_20
+    100070: Arch43_089_obj_21
+    100072: Arch43_089_obj_22
+    100074: Arch43_089_obj_23
+    100076: Arch43_089_obj_24
+    100078: Arch43_089_obj_25
+    100080: Arch43_089_obj_26
+    100082: Arch43_089_obj_27
+    100084: Arch43_089_obj_28
+    100086: Arch43_089_obj_29
+    100088: archinteriors15_6_171
+    100090: archinteriors15_6_185
+    100092: archmodels_77_013_obj_01
+    100094: archmodels_77_013_obj_02
+    100096: archmodels_77_013_obj_03
+    100098: archmodels_77_013_obj_04
+    100100: archmodels_77_013_obj_07
+    100102: archmodels_77_013_obj_08
+    100104: archmodels_77_013_obj_09
+    100106: archmodels_77_013_obj_11
+    100108: archmodels_77_013_obj_12
+    100110: archmodels_77_013_obj_14
+    100112: archmodels_77_013_obj_15
+    100114: Dummy001
+    100116: HOME_PAINEL
+    100118: MOB MESA CENTRO
+    100120: MOB RACK
+    100122: MOB TV
+    100124: //RootNode
+    100126: OBJ QUADRO 003
+    100128: OBJ QUADRO 1
+    100130: OBJ QUADRO 2
+    100132: Rectangle002
+    100134: TV TELA
+    100136: OBJ CORTINA001
+    400000: AI_027_008_artworks_01_obj_007
+    400002: AI_027_008_artworks_01_obj_008
+    400004: AI_027_008_artworks_01_obj_009
+    400006: AI_027_008_artworks_01_obj_01
+    400008: AI_027_008_artworks_01_obj_010
+    400010: AI_027_008_artworks_01_obj_011
+    400012: AI_027_008_artworks_01_obj_03
+    400014: AI_027_008_artworks_01_obj_04
+    400016: AI_027_008_artworks_01_obj_05
+    400018: AI_027_008_artworks_01_obj_06
+    400020: AI_027_008_artworks_02_obj_01
+    400022: AI_027_008_artworks_02_obj_03
+    400024: AI_027_008_artworks_02_obj_04
+    400026: AI_027_008_artworks_02_obj_05
+    400028: AI_027_008_artworks_02_obj_06
+    400030: Arch43_089_obj_01
+    400032: Arch43_089_obj_02
+    400034: Arch43_089_obj_03
+    400036: Arch43_089_obj_04
+    400038: Arch43_089_obj_05
+    400040: Arch43_089_obj_06
+    400042: Arch43_089_obj_07
+    400044: Arch43_089_obj_08
+    400046: Arch43_089_obj_09
+    400048: Arch43_089_obj_10
+    400050: Arch43_089_obj_11
+    400052: Arch43_089_obj_12
+    400054: Arch43_089_obj_13
+    400056: Arch43_089_obj_14
+    400058: Arch43_089_obj_15
+    400060: Arch43_089_obj_16
+    400062: Arch43_089_obj_17
+    400064: Arch43_089_obj_18
+    400066: Arch43_089_obj_19
+    400068: Arch43_089_obj_20
+    400070: Arch43_089_obj_21
+    400072: Arch43_089_obj_22
+    400074: Arch43_089_obj_23
+    400076: Arch43_089_obj_24
+    400078: Arch43_089_obj_25
+    400080: Arch43_089_obj_26
+    400082: Arch43_089_obj_27
+    400084: Arch43_089_obj_28
+    400086: Arch43_089_obj_29
+    400088: archinteriors15_6_171
+    400090: archinteriors15_6_185
+    400092: archmodels_77_013_obj_01
+    400094: archmodels_77_013_obj_02
+    400096: archmodels_77_013_obj_03
+    400098: archmodels_77_013_obj_04
+    400100: archmodels_77_013_obj_07
+    400102: archmodels_77_013_obj_08
+    400104: archmodels_77_013_obj_09
+    400106: archmodels_77_013_obj_11
+    400108: archmodels_77_013_obj_12
+    400110: archmodels_77_013_obj_14
+    400112: archmodels_77_013_obj_15
+    400114: Dummy001
+    400116: HOME_PAINEL
+    400118: MOB MESA CENTRO
+    400120: MOB RACK
+    400122: MOB TV
+    400124: //RootNode
+    400126: OBJ QUADRO 003
+    400128: OBJ QUADRO 1
+    400130: OBJ QUADRO 2
+    400132: Rectangle002
+    400134: TV TELA
+    400136: OBJ CORTINA001
+    2300000: AI_027_008_artworks_01_obj_007
+    2300002: AI_027_008_artworks_01_obj_008
+    2300004: AI_027_008_artworks_01_obj_009
+    2300006: AI_027_008_artworks_01_obj_01
+    2300008: AI_027_008_artworks_01_obj_010
+    2300010: AI_027_008_artworks_01_obj_011
+    2300012: AI_027_008_artworks_01_obj_03
+    2300014: AI_027_008_artworks_01_obj_04
+    2300016: AI_027_008_artworks_01_obj_05
+    2300018: AI_027_008_artworks_01_obj_06
+    2300020: AI_027_008_artworks_02_obj_01
+    2300022: AI_027_008_artworks_02_obj_03
+    2300024: AI_027_008_artworks_02_obj_04
+    2300026: AI_027_008_artworks_02_obj_05
+    2300028: AI_027_008_artworks_02_obj_06
+    2300030: Arch43_089_obj_01
+    2300032: Arch43_089_obj_02
+    2300034: Arch43_089_obj_03
+    2300036: Arch43_089_obj_04
+    2300038: Arch43_089_obj_05
+    2300040: Arch43_089_obj_06
+    2300042: Arch43_089_obj_07
+    2300044: Arch43_089_obj_08
+    2300046: Arch43_089_obj_09
+    2300048: Arch43_089_obj_10
+    2300050: Arch43_089_obj_11
+    2300052: Arch43_089_obj_12
+    2300054: Arch43_089_obj_13
+    2300056: Arch43_089_obj_14
+    2300058: Arch43_089_obj_15
+    2300060: Arch43_089_obj_16
+    2300062: Arch43_089_obj_17
+    2300064: Arch43_089_obj_18
+    2300066: Arch43_089_obj_19
+    2300068: Arch43_089_obj_20
+    2300070: Arch43_089_obj_21
+    2300072: Arch43_089_obj_22
+    2300074: Arch43_089_obj_23
+    2300076: Arch43_089_obj_24
+    2300078: Arch43_089_obj_25
+    2300080: Arch43_089_obj_26
+    2300082: Arch43_089_obj_27
+    2300084: Arch43_089_obj_28
+    2300086: Arch43_089_obj_29
+    2300088: archinteriors15_6_171
+    2300090: archinteriors15_6_185
+    2300092: archmodels_77_013_obj_01
+    2300094: archmodels_77_013_obj_02
+    2300096: archmodels_77_013_obj_03
+    2300098: archmodels_77_013_obj_04
+    2300100: archmodels_77_013_obj_07
+    2300102: archmodels_77_013_obj_08
+    2300104: archmodels_77_013_obj_09
+    2300106: archmodels_77_013_obj_11
+    2300108: archmodels_77_013_obj_12
+    2300110: archmodels_77_013_obj_14
+    2300112: archmodels_77_013_obj_15
+    2300114: HOME_PAINEL
+    2300116: Rectangle002
+    2300118: TV TELA
+    2300120: OBJ CORTINA001
+    3300000: AI_027_008_artworks_01_obj_007
+    3300002: AI_027_008_artworks_01_obj_008
+    3300004: AI_027_008_artworks_01_obj_009
+    3300006: AI_027_008_artworks_01_obj_01
+    3300008: AI_027_008_artworks_01_obj_010
+    3300010: AI_027_008_artworks_01_obj_011
+    3300012: AI_027_008_artworks_01_obj_03
+    3300014: AI_027_008_artworks_01_obj_04
+    3300016: AI_027_008_artworks_01_obj_05
+    3300018: AI_027_008_artworks_01_obj_06
+    3300020: AI_027_008_artworks_02_obj_01
+    3300022: AI_027_008_artworks_02_obj_03
+    3300024: AI_027_008_artworks_02_obj_04
+    3300026: AI_027_008_artworks_02_obj_05
+    3300028: AI_027_008_artworks_02_obj_06
+    3300030: Arch43_089_obj_01
+    3300032: Arch43_089_obj_02
+    3300034: Arch43_089_obj_03
+    3300036: Arch43_089_obj_04
+    3300038: Arch43_089_obj_05
+    3300040: Arch43_089_obj_06
+    3300042: Arch43_089_obj_07
+    3300044: Arch43_089_obj_08
+    3300046: Arch43_089_obj_09
+    3300048: Arch43_089_obj_10
+    3300050: Arch43_089_obj_11
+    3300052: Arch43_089_obj_12
+    3300054: Arch43_089_obj_13
+    3300056: Arch43_089_obj_14
+    3300058: Arch43_089_obj_15
+    3300060: Arch43_089_obj_16
+    3300062: Arch43_089_obj_17
+    3300064: Arch43_089_obj_18
+    3300066: Arch43_089_obj_19
+    3300068: Arch43_089_obj_20
+    3300070: Arch43_089_obj_21
+    3300072: Arch43_089_obj_22
+    3300074: Arch43_089_obj_23
+    3300076: Arch43_089_obj_24
+    3300078: Arch43_089_obj_25
+    3300080: Arch43_089_obj_26
+    3300082: Arch43_089_obj_27
+    3300084: Arch43_089_obj_28
+    3300086: Arch43_089_obj_29
+    3300088: archinteriors15_6_171
+    3300090: archinteriors15_6_185
+    3300092: archmodels_77_013_obj_01
+    3300094: archmodels_77_013_obj_02
+    3300096: archmodels_77_013_obj_03
+    3300098: archmodels_77_013_obj_04
+    3300100: archmodels_77_013_obj_07
+    3300102: archmodels_77_013_obj_08
+    3300104: archmodels_77_013_obj_09
+    3300106: archmodels_77_013_obj_11
+    3300108: archmodels_77_013_obj_12
+    3300110: archmodels_77_013_obj_14
+    3300112: archmodels_77_013_obj_15
+    3300114: HOME_PAINEL
+    3300116: Rectangle002
+    3300118: TV TELA
+    3300120: OBJ CORTINA001
+    4300000: archinteriors15_6_185
+    4300002: archinteriors15_6_171
+    4300004: Arch43_089_obj_01
+    4300006: Arch43_089_obj_02
+    4300008: Arch43_089_obj_03
+    4300010: Arch43_089_obj_04
+    4300012: Arch43_089_obj_05
+    4300014: Arch43_089_obj_06
+    4300016: Arch43_089_obj_07
+    4300018: Arch43_089_obj_08
+    4300020: Arch43_089_obj_09
+    4300022: Arch43_089_obj_10
+    4300024: Arch43_089_obj_11
+    4300026: Arch43_089_obj_12
+    4300028: Arch43_089_obj_13
+    4300030: Arch43_089_obj_14
+    4300032: Arch43_089_obj_15
+    4300034: Arch43_089_obj_16
+    4300036: Arch43_089_obj_17
+    4300038: Arch43_089_obj_18
+    4300040: Arch43_089_obj_19
+    4300042: Arch43_089_obj_20
+    4300044: Arch43_089_obj_21
+    4300046: Arch43_089_obj_22
+    4300048: Arch43_089_obj_23
+    4300050: Arch43_089_obj_24
+    4300052: Arch43_089_obj_25
+    4300054: Arch43_089_obj_26
+    4300056: Arch43_089_obj_27
+    4300058: Arch43_089_obj_28
+    4300060: Arch43_089_obj_29
+    4300062: archmodels_77_013_obj_01
+    4300064: archmodels_77_013_obj_02
+    4300066: archmodels_77_013_obj_03
+    4300068: archmodels_77_013_obj_04
+    4300070: archmodels_77_013_obj_07
+    4300072: archmodels_77_013_obj_08
+    4300074: archmodels_77_013_obj_09
+    4300076: TV TELA
+    4300078: archmodels_77_013_obj_11
+    4300080: archmodels_77_013_obj_12
+    4300082: archmodels_77_013_obj_14
+    4300084: archmodels_77_013_obj_15
+    4300086: Rectangle002
+    4300088: AI_027_008_artworks_01_obj_03
+    4300090: AI_027_008_artworks_01_obj_04
+    4300092: AI_027_008_artworks_01_obj_01
+    4300094: AI_027_008_artworks_01_obj_05
+    4300096: AI_027_008_artworks_01_obj_06
+    4300098: AI_027_008_artworks_02_obj_03
+    4300100: AI_027_008_artworks_02_obj_04
+    4300102: AI_027_008_artworks_02_obj_01
+    4300104: AI_027_008_artworks_02_obj_05
+    4300106: AI_027_008_artworks_02_obj_06
+    4300108: HOME_PAINEL
+    4300110: AI_027_008_artworks_01_obj_007
+    4300112: AI_027_008_artworks_01_obj_008
+    4300114: AI_027_008_artworks_01_obj_009
+    4300116: AI_027_008_artworks_01_obj_010
+    4300118: AI_027_008_artworks_01_obj_011
+    4300120: OBJ CORTINA001
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
