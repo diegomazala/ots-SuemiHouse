@@ -35,6 +35,6 @@ Material:
     - _Shininess: 0.125
     - _WindQuality: 5
     m_Colors:
-    - _Color: {r: 0.4705882, g: 0.4221453, b: 0.34948096, a: 1}
+    - _Color: {r: 0.9411765, g: 0.8221453, b: 0.6435986, a: 1}
     - _HueVariation: {r: 1, g: 0.50000006, b: 0, a: 0.1}
     - _SpecColor: {r: 0.5, g: 0.5, b: 0.5, a: 0}

@@ -1,7 +1,7 @@
 fileFormatVersion: 2
 guid: 795770b2198dfe946a736bb9baa1cf0d
-timeCreated: 1495384726
-licenseType: Free
+timeCreated: 1498187838
+licenseType: Pro
 SubstanceImporter:
   serializedVersion: 5
   materialInstances:
@@ -239,7 +239,7 @@ SubstanceImporter:
       - _UVSec: 0
       - _ZWrite: 1
       colors:
-      - _Color: {r: 1, g: 1, b: 1, a: 1}
+      - _Color: {r: 0.9852941, g: 0.9852941, b: 0.9852941, a: 1}
       - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
     textureParameters:
     - name: PW_CottonFabric_basecolor

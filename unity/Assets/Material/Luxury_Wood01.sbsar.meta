@@ -1,7 +1,7 @@
 fileFormatVersion: 2
 guid: f088dfbe78faf5144a635c11869fb4cc
-timeCreated: 1497927449
-licenseType: Free
+timeCreated: 1498188060
+licenseType: Pro
 SubstanceImporter:
   serializedVersion: 5
   materialInstances:
@@ -101,7 +101,7 @@ SubstanceImporter:
       colors:
       - _Color: {r: 1, g: 1, b: 1, a: 1}
       - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
-      - _SpecColor: {r: 0.125, g: 0.125, b: 0.125, a: 1}
+      - _SpecColor: {r: 0.18382353, g: 0.18382353, b: 0.18382353, a: 1}
     textureParameters:
     - name: Luxury_Wood01_basecolor
       alphaSource: 6
