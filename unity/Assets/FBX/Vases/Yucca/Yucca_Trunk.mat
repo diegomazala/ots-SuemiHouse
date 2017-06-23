@@ -19,7 +19,7 @@ Material:
     m_TexEnvs:
     - _BumpMap:
         m_Texture: {fileID: 2800000, guid: bc404d602343d234d80896530c092888, type: 3}
-        m_Scale: {x: 1, y: 1}
+        m_Scale: {x: 2, y: 2}
         m_Offset: {x: 0, y: 0}
     - _DetailTex:
         m_Texture: {fileID: 0}
@@ -35,6 +35,6 @@ Material:
     - _Shininess: 0.125
     - _WindQuality: 5
     m_Colors:
-    - _Color: {r: 0.9411765, g: 0.8221453, b: 0.6435986, a: 1}
+    - _Color: {r: 0.4705882, g: 0.4221453, b: 0.34948096, a: 1}
     - _HueVariation: {r: 1, g: 0.50000006, b: 0, a: 0.1}
     - _SpecColor: {r: 0.5, g: 0.5, b: 0.5, a: 0}

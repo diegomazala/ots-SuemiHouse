@@ -1,7 +1,7 @@
 fileFormatVersion: 2
 guid: 538e15670ec3d134088a5562ec736b44
-timeCreated: 1498187508
-licenseType: Pro
+timeCreated: 1496211735
+licenseType: Free
 SubstanceImporter:
   serializedVersion: 5
   materialInstances:
@@ -10,7 +10,7 @@ SubstanceImporter:
     prototypeName: BrickGenerator
     shaderName: 
     shader: {fileID: 46, guid: 0000000000000000f000000000000000, type: 0}
-    shaderKeywords: _NORMALMAP
+    shaderKeywords: _METALLICGLOSSMAP _NORMALMAP
     renderQueue: -1
     lightmapFlags: 4
     inputs:
@@ -87,9 +87,9 @@ SubstanceImporter:
       - _DetailNormalMapScale: 1
       - _DstBlend: 0
       - _GlossMapScale: 1
-      - _Glossiness: 0.437
+      - _Glossiness: 0
       - _GlossyReflections: 1
-      - _Metallic: 0.268
+      - _Metallic: 0.023
       - _Mode: 0
       - _OcclusionStrength: 1
       - _Parallax: 0.02
