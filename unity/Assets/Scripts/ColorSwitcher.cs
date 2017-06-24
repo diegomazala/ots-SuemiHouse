@@ -15,7 +15,7 @@ public class ColorSwitcher : MonoBehaviour
     public List<Color> colors;
     public Material[] targetMaterials;
     public Collider[] colliderList;
-    public ReflectionProbe reflectionProbe;
+    public ReflectionProbe[] reflectionProbe;
 
 
     [SerializeField]
@@ -79,8 +79,8 @@ public class ColorSwitcher : MonoBehaviour
         foreach (Material m in targetMaterials)
             m.color = colors[index % colors.Count];
 
-        if (reflectionProbe)
-            reflectionProbe.RenderProbe();
+        foreach (ReflectionProbe r in reflectionProbe)
+            r.RenderProbe();
     }
 
 }
