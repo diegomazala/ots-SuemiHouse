@@ -34,8 +34,7 @@ public class CineMachineCameraSwitcher : MonoBehaviour
         {
             if (Input.GetKeyDown(KeyCode.Alpha1 + i))
             {
-                DisableCineMachine();
-                cineCameras[i].enabled = true;
+                
             }
         }
 
@@ -48,6 +47,13 @@ public class CineMachineCameraSwitcher : MonoBehaviour
         {
             c.enabled = false;
         }
+    }
+
+
+    public void EnableCamera(int index)
+    {
+        DisableCineMachine();
+        cineCameras[index % cineCameras.Length].enabled = true;
     }
 
 }
