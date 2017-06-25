@@ -34,7 +34,7 @@ public class CineMachineCameraSwitcher : MonoBehaviour
         {
             if (Input.GetKeyDown(KeyCode.Alpha1 + i))
             {
-                
+                EnableCamera(i);
             }
         }
 
