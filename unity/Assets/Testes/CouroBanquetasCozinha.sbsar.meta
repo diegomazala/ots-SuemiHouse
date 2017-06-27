@@ -1,6 +1,6 @@
 fileFormatVersion: 2
 guid: 7ead5c66acabb784cb4bb6d516dd420f
-timeCreated: 1497332294
+timeCreated: 1498187889
 licenseType: Free
 SubstanceImporter:
   serializedVersion: 5
@@ -10,7 +10,7 @@ SubstanceImporter:
     prototypeName: leather_interior
     shaderName: 
     shader: {fileID: 46, guid: 0000000000000000f000000000000000, type: 0}
-    shaderKeywords: _METALLICGLOSSMAP _NORMALMAP _PARALLAXMAP
+    shaderKeywords: _METALLICGLOSSMAP _NORMALMAP _PARALLAXMAP _SMOOTHNESS_TEXTURE_ALBEDO_CHANNEL_A
     renderQueue: -1
     lightmapFlags: 4
     inputs:
@@ -30,9 +30,9 @@ SubstanceImporter:
         texture: {instanceID: 0}
     - name: Color
       value:
-        scalar[0]: 1
-        scalar[1]: 1
-        scalar[2]: 1
+        scalar[0]: 0.9632353
+        scalar[1]: 0.9324626
+        scalar[2]: 0.8994918
         scalar[3]: 1
         texture: {instanceID: 0}
     - name: Roughness
@@ -121,14 +121,14 @@ SubstanceImporter:
       - _Cutoff: 0.5
       - _DetailNormalMapScale: 1
       - _DstBlend: 0
-      - _GlossMapScale: 0.371
+      - _GlossMapScale: 0.07
       - _Glossiness: 0.5
       - _GlossyReflections: 1
       - _Metallic: 0
       - _Mode: 0
-      - _OcclusionStrength: 1
-      - _Parallax: 0.005
-      - _SmoothnessTextureChannel: 0
+      - _OcclusionStrength: 0.243
+      - _Parallax: 0.0421
+      - _SmoothnessTextureChannel: 1
       - _SpecularHighlights: 1
       - _SrcBlend: 1
       - _UVSec: 0
