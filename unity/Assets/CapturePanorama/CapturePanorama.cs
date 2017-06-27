@@ -422,6 +422,14 @@ namespace CapturePanorama
             }
         }
 
+        public void StartStopCaptureEveryFrame()
+        {
+            if (capturingEveryFrame)
+                StopCaptureEveryFrame();
+            else
+                StartCaptureEveryFrame();
+        }
+
         public void StartCaptureEveryFrame()
         {
             Time.captureFramerate = frameRate;
@@ -443,12 +451,21 @@ namespace CapturePanorama
             while (enumerator.MoveNext()) { }
         }
 
-    
 
         public void CaptureScreenshotAsync(string filenameBase)
         {
             StartCoroutine(CaptureScreenshotAsyncHelper(filenameBase, /*async*/true));
         }
+
+
+        public void CaptureScreenshot()
+        {
+            var baseName = Time.realtimeSinceStartup.ToString(new String('0', frameNumberDigits));
+            StartCoroutine(CaptureScreenshotAsyncHelper(baseName, /*async*/true));
+        }
+
+
+
 
         internal bool Capturing;
 
