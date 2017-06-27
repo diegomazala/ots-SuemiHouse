@@ -81,7 +81,7 @@ MonoBehaviour:
     m_Settings:
       shutterAngle: 270
       sampleCount: 20
-      frameBlending: 0.5
+      frameBlending: 0
   eyeAdaptation:
     m_Enabled: 1
     m_Settings:
@@ -100,8 +100,8 @@ MonoBehaviour:
     m_Enabled: 1
     m_Settings:
       bloom:
-        intensity: 0.23
-        threshold: 2
+        intensity: 0.1
+        threshold: 3
         softKnee: 1
         radius: 4.02
         antiFlicker: 1
@@ -120,12 +120,12 @@ MonoBehaviour:
         neutralWhiteLevel: 20
         neutralWhiteClip: 10
       basic:
-        postExposure: 2.5
-        temperature: 0
+        postExposure: 1.8
+        temperature: -7
         tint: 0
         hueShift: 0
-        saturation: 1
-        contrast: 1.164
+        saturation: 0.9
+        contrast: 1.1
       channelMixer:
         red: {x: 1, y: 0, z: 0}
         green: {x: 0, y: 1, z: 0}
