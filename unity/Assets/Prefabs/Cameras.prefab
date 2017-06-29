@@ -359,8 +359,8 @@ Transform:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1809350752602544}
-  m_LocalRotation: {x: 0.07753669, y: -0.50870126, z: 0.046067186, w: 0.8562061}
-  m_LocalPosition: {x: -1.555333, y: 5.070556, z: 5.501678}
+  m_LocalRotation: {x: -0.07616142, y: 0.6137719, z: -0.05966032, w: -0.78353316}
+  m_LocalPosition: {x: -1.4352207, y: 5.14557, z: 5.585015}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 4784074492418756}
@@ -468,8 +468,8 @@ Transform:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1406932978133042}
-  m_LocalRotation: {x: -0.04660048, y: -0.23181261, z: 0.05394056, w: -0.9701452}
-  m_LocalPosition: {x: -8.251469, y: -1.0428052, z: -6.7028837}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 4098173649343950}
@@ -590,7 +590,7 @@ Camera:
     height: 1
   near clip plane: 0.1
   far clip plane: 32
-  field of view: 70
+  field of view: 50
   orthographic: 0
   orthographic size: 5
   m_Depth: 0
@@ -692,7 +692,7 @@ AudioSource:
       tangentMode: 0
     m_PreInfinity: 2
     m_PostInfinity: 2
-    m_RotationOrder: 4
+    m_RotationOrder: 0
   spreadCustomCurve:
     serializedVersion: 2
     m_Curve:
@@ -704,7 +704,7 @@ AudioSource:
       tangentMode: 0
     m_PreInfinity: 2
     m_PostInfinity: 2
-    m_RotationOrder: 4
+    m_RotationOrder: 0
   reverbZoneMixCustomCurve:
     serializedVersion: 2
     m_Curve:
@@ -716,7 +716,7 @@ AudioSource:
       tangentMode: 0
     m_PreInfinity: 2
     m_PostInfinity: 2
-    m_RotationOrder: 4
+    m_RotationOrder: 0
 --- !u!82 &82231078810556076
 AudioSource:
   m_ObjectHideFlags: 1
@@ -772,7 +772,7 @@ AudioSource:
       tangentMode: 0
     m_PreInfinity: 2
     m_PostInfinity: 2
-    m_RotationOrder: 4
+    m_RotationOrder: 0
   spreadCustomCurve:
     serializedVersion: 2
     m_Curve:
@@ -784,7 +784,7 @@ AudioSource:
       tangentMode: 0
     m_PreInfinity: 2
     m_PostInfinity: 2
-    m_RotationOrder: 4
+    m_RotationOrder: 0
   reverbZoneMixCustomCurve:
     serializedVersion: 2
     m_Curve:
@@ -796,7 +796,7 @@ AudioSource:
       tangentMode: 0
     m_PreInfinity: 2
     m_PostInfinity: 2
-    m_RotationOrder: 4
+    m_RotationOrder: 0
 --- !u!92 &92332950367560262
 Behaviour:
   m_ObjectHideFlags: 1
@@ -934,7 +934,7 @@ MonoBehaviour:
   m_Script: {fileID: -1704111522, guid: 7c9da65c57324a64ca6cc78d5ecc736e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_BlendSettings: {fileID: 11400000, guid: d5eabe29ca60cd44aa3afa0f8fb48eff, type: 2}
+  m_BlendSettings: {fileID: 0}
   m_DefaultCamera: {fileID: 0}
 --- !u!114 &114264940248659824
 MonoBehaviour:

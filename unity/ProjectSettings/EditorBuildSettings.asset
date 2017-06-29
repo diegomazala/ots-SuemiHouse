@@ -6,5 +6,8 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/Scenes/Splash.unity
+    guid: e55a5bb79ef594a498143ab12ec9e3fc
+  - enabled: 1
     path: Assets/Scenes/FullHouse.unity
-    guid: 00000000000000000000000000000000
+    guid: f6e75335bebcdcc41b7bf8b80c39d96e
