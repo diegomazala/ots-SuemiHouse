@@ -82,3 +82,4 @@ $RECYCLE.BIN/
 app/
 
 *.collabignore
+unity/Assets/CalibrationScene/
