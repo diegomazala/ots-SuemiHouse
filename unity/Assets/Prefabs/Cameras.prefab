@@ -1348,7 +1348,7 @@ MonoBehaviour:
   panoramaName: ots-
   qualitySetting: 
   captureKey: 112
-  imageFormat: 0
+  imageFormat: 1
   captureStereoscopic: 0
   interpupillaryDistance: 0.0635
   numCirclePoints: 128
