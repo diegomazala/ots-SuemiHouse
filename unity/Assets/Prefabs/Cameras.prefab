@@ -359,8 +359,8 @@ Transform:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1809350752602544}
-  m_LocalRotation: {x: -0.07616142, y: 0.6137719, z: -0.05966032, w: -0.78353316}
-  m_LocalPosition: {x: -1.4352207, y: 5.14557, z: 5.585015}
+  m_LocalRotation: {x: 0.07753669, y: -0.50870126, z: 0.046067186, w: 0.8562061}
+  m_LocalPosition: {x: -1.555333, y: 5.070556, z: 5.501678}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 4784074492418756}
@@ -430,7 +430,7 @@ Transform:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1717891132300306}
   m_LocalRotation: {x: -0.009716199, y: -0.8251904, z: 0.16609104, w: -0.5397965}
-  m_LocalPosition: {x: -3.1461463, y: 0.47765845, z: 4.288196}
+  m_LocalPosition: {x: -2.86, y: 0.47765845, z: 4.33}
   m_LocalScale: {x: 1.0000002, y: 0.99999994, z: 1.0000004}
   m_Children: []
   m_Father: {fileID: 4962465121551016}
@@ -934,7 +934,7 @@ MonoBehaviour:
   m_Script: {fileID: -1704111522, guid: 7c9da65c57324a64ca6cc78d5ecc736e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_BlendSettings: {fileID: 0}
+  m_BlendSettings: {fileID: 11400000, guid: d5eabe29ca60cd44aa3afa0f8fb48eff, type: 2}
   m_DefaultCamera: {fileID: 0}
 --- !u!114 &114264940248659824
 MonoBehaviour:

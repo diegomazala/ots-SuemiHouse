@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.5342044, g: 0.5098986, b: 0.4804819, a: 1}
+  m_IndirectSpecularColor: {r: 0.53419286, g: 0.509913, b: 0.4804936, a: 1}
 --- !u!157 &3
 LightmapSettings:
   m_ObjectHideFlags: 0
@@ -36294,46 +36294,17 @@ Prefab:
       propertyPath: m_RootOrder
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 82231078810556076, guid: 096e7f52d4883b04c9933f0a518a8ddf,
-        type: 2}
-      propertyPath: panLevelCustomCurve.m_RotationOrder
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 82231078810556076, guid: 096e7f52d4883b04c9933f0a518a8ddf,
-        type: 2}
-      propertyPath: spreadCustomCurve.m_RotationOrder
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 82231078810556076, guid: 096e7f52d4883b04c9933f0a518a8ddf,
-        type: 2}
-      propertyPath: reverbZoneMixCustomCurve.m_RotationOrder
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 82065918493865638, guid: 096e7f52d4883b04c9933f0a518a8ddf,
-        type: 2}
-      propertyPath: panLevelCustomCurve.m_RotationOrder
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 82065918493865638, guid: 096e7f52d4883b04c9933f0a518a8ddf,
-        type: 2}
-      propertyPath: spreadCustomCurve.m_RotationOrder
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 82065918493865638, guid: 096e7f52d4883b04c9933f0a518a8ddf,
-        type: 2}
-      propertyPath: reverbZoneMixCustomCurve.m_RotationOrder
-      value: 0
-      objectReference: {fileID: 0}
     - target: {fileID: 114933947545222110, guid: 096e7f52d4883b04c9933f0a518a8ddf,
         type: 2}
       propertyPath: m_Enabled
       value: 1
       objectReference: {fileID: 0}
-    - target: {fileID: 20772782918804238, guid: 096e7f52d4883b04c9933f0a518a8ddf,
+    - target: {fileID: 114933947545222110, guid: 096e7f52d4883b04c9933f0a518a8ddf,
         type: 2}
-      propertyPath: field of view
-      value: 50
-      objectReference: {fileID: 0}
+      propertyPath: profile
+      value: 
+      objectReference: {fileID: 11400000, guid: ca49fc3e7c172b64bbb17651b11ab90d,
+        type: 2}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 096e7f52d4883b04c9933f0a518a8ddf, type: 2}
   m_IsPrefabParent: 0
