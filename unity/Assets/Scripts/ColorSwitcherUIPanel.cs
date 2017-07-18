@@ -59,20 +59,13 @@ public class ColorSwitcherUIPanel : MonoBehaviour
             int color_count = colorSwitcher.colors.Count;
             for (int i = 0; i < color_count; ++i)
             {
-#if true
                 colorButtons.Add(Instantiate<UnityEngine.UI.Button>(buttonTemplate));
                 UnityEngine.UI.Button button = colorButtons[colorButtons.Count - 1];
                 button.image.color = colorSwitcher.colors[i];
                 int color_index = i;    // it must have this copy, otherwise, the listener will not work properly
                 button.onClick.AddListener(() => colorSwitcher.SwitchColor(color_index));
                 button.transform.SetParent(layoutGroup.transform);
-#else
-                UnityEngine.UI.Button button = Instantiate<UnityEngine.UI.Button>(buttonTemplate);
-                button.image.color = colorSwitcher.colors[i];
-                button.transform.SetParent(layoutGroup.transform);
-                button.onClick.AddListener(() => colorSwitcher.SwitchColor(i));
-                colorButtons.Add(button);
-#endif
+                button.transform.localScale = Vector3.one;
             }
 
             uiController.Show();
