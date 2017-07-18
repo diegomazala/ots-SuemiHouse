@@ -124,7 +124,7 @@ public class MaterialDownloaderManager : MonoBehaviour
         if (screenText)
             screenText.enabled = false;
 
-        if (www.isError)
+        if (www.isNetworkError)
         {
             Debug.Log(www.error);
         }
@@ -167,7 +167,7 @@ public class MaterialDownloaderManager : MonoBehaviour
         {
             yield return www.Send();
 
-            if (!www.isError)
+            if (!www.isNetworkError)
             {
                 AssetBundle bundle = DownloadHandlerAssetBundle.GetContent(www);
 

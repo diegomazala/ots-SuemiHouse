@@ -8,90 +8,27 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: -1095549431, guid: 7c9da65c57324a64ca6cc78d5ecc736e, type: 3}
+  m_Script: {fileID: 11500000, guid: 36baaa8bdcb9d8b49b9199833965d2c3, type: 3}
   m_Name: BlenderSettings_state machine
   m_EditorClassIdentifier: 
-  m_DefaultBlend:
-    serializedVersion: 2
-    m_Curve:
-    - time: 0
-      value: 0
-      inSlope: 0
-      outSlope: 0
-      tangentMode: 0
-    - time: 3
-      value: 1
-      inSlope: 0
-      outSlope: 0
-      tangentMode: 0
-    m_PreInfinity: 2
-    m_PostInfinity: 2
-    m_RotationOrder: 0
   m_CustomBlends:
-  - BlendFromCameraName: CM_1
-    BlendToCameraName: CM_2
-    Blending:
-      serializedVersion: 2
-      m_Curve:
-      - time: 0
-        value: 0
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      - time: 2
-        value: 1
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 0
-  - BlendFromCameraName: CM_2
-    BlendToCameraName: CM_3
-    Blending:
-      serializedVersion: 2
-      m_Curve:
-      - time: 0
-        value: 0
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      - time: 2
-        value: 1
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 0
-  - BlendFromCameraName: '**ANY CAMERA**'
-    BlendToCameraName: CM_4
-    Blending:
-      serializedVersion: 2
-      m_Curve:
-      - time: 0
-        value: 0
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 0
-  - BlendFromCameraName: CM_2
-    BlendToCameraName: CM_1
-    Blending:
-      serializedVersion: 2
-      m_Curve:
-      - time: 0
-        value: 0
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      - time: 0.5
-        value: 1
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 0
+  - m_From: '**ANY CAMERA**'
+    m_To: TURN ME ON CM_1
+    m_Blend:
+      m_Style: 1
+      m_Time: 0.5
+  - m_From: '**ANY CAMERA**'
+    m_To: THEN TURN ME ON CM_2
+    m_Blend:
+      m_Style: 0
+      m_Time: 2
+  - m_From: '**ANY CAMERA**'
+    m_To: WILL YOU TURN ME ON? CM_3
+    m_Blend:
+      m_Style: 4
+      m_Time: 0.5
+  - m_From: '**ANY CAMERA**'
+    m_To: OK TURN ME ON TOO CM_4
+    m_Blend:
+      m_Style: 1
+      m_Time: 5

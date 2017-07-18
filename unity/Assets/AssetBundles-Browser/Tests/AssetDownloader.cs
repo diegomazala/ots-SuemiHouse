@@ -35,7 +35,7 @@ class AssetDownloader : MonoBehaviour
         UnityWebRequest www = UnityWebRequest.GetAssetBundle(assetBundleUrl);
         yield return www.Send();
 
-        if (www.isError)
+        if (www.isNetworkError)
         {
             Debug.Log(www.error);
         }
@@ -58,7 +58,7 @@ class AssetDownloader : MonoBehaviour
         UnityWebRequest www = UnityWebRequest.GetAssetBundle(assetBundleUrl);
         yield return www.Send();
 
-        if (www.isError)
+        if (www.isNetworkError)
         {
             Debug.Log(www.error);
         }
