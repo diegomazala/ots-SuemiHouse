@@ -1,7 +1,7 @@
 fileFormatVersion: 2
 guid: a87cd1797e1903f478d6a255ed43a276
-timeCreated: 1495510654
-licenseType: Free
+timeCreated: 1505177288
+licenseType: Pro
 SubstanceImporter:
   serializedVersion: 5
   materialInstances:
@@ -23,23 +23,23 @@ SubstanceImporter:
         texture: {instanceID: 0}
     - name: Color_Three
       value:
-        scalar[0]: 0.505882
-        scalar[1]: 0.213169
-        scalar[2]: 0.180529
+        scalar[0]: 1
+        scalar[1]: 0.42745098
+        scalar[2]: 0.14901961
         scalar[3]: 1
         texture: {instanceID: 0}
     - name: Color_Two
       value:
-        scalar[0]: 0.631373
-        scalar[1]: 0.488685
-        scalar[2]: 0.257496
+        scalar[0]: 1
+        scalar[1]: 0.74509805
+        scalar[2]: 0.14901961
         scalar[3]: 1
         texture: {instanceID: 0}
     - name: Color_One
       value:
-        scalar[0]: 0.26006
-        scalar[1]: 0.27393
-        scalar[2]: 0.34902
+        scalar[0]: 1
+        scalar[1]: 1
+        scalar[2]: 1
         scalar[3]: 1
         texture: {instanceID: 0}
     - name: Rope_Normal_Intensity
@@ -61,7 +61,7 @@ SubstanceImporter:
       texEnvs:
       - _BumpMap:
           texture: {instanceID: 0}
-          scale: {x: 2, y: 1}
+          scale: {x: 2, y: 2}
           offset: {x: 0, y: 0}
       - _DetailAlbedoMap:
           texture: {instanceID: 0}
@@ -85,7 +85,7 @@ SubstanceImporter:
           offset: {x: 0, y: 0}
       - _MetallicGlossMap:
           texture: {instanceID: 0}
-          scale: {x: 2, y: 1}
+          scale: {x: 2, y: 2}
           offset: {x: 0, y: 0}
       - _OcclusionMap:
           texture: {instanceID: 0}
@@ -113,7 +113,7 @@ SubstanceImporter:
       - _UVSec: 0
       - _ZWrite: 1
       colors:
-      - _Color: {r: 1, g: 1, b: 1, a: 1}
+      - _Color: {r: 0.9191176, g: 0.9191176, b: 0.9191176, a: 1}
       - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
     textureParameters:
     - name: ClimbingRope_basecolor
@@ -132,12 +132,12 @@ SubstanceImporter:
       aniso: 1
       wrapMode: 0
     textureAssignments:
-    - shaderProp: _BumpMap
-      material: {instanceID: 0}
-      baseUID: 2016032796
     - shaderProp: _MainTex
       material: {instanceID: 0}
       baseUID: 2016032798
+    - shaderProp: _BumpMap
+      material: {instanceID: 0}
+      baseUID: 2016032796
     - shaderProp: _MetallicGlossMap
       material: {instanceID: 0}
       baseUID: 2016032792
