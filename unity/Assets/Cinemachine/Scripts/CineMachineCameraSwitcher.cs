@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class CineMachineCameraSwitcher : MonoBehaviour
 {
+    public int Current = 0;
     public KeyCode[] keyForDisableCineMachine;
     public Cinemachine.CinemachineVirtualCamera[] cineCameras;
 
@@ -13,33 +14,37 @@ public class CineMachineCameraSwitcher : MonoBehaviour
         if (cineCameras.Length < 1)
             cineCameras = FindObjectsOfType<Cinemachine.CinemachineVirtualCamera>();
 
+
         DisableCineMachine();
+        Current = 0;
+        cineCameras[Current % cineCameras.Length].enabled = true;
     }
 
 
     void Update()
     {
-        if (Input.GetMouseButtonDown(0))
-            DisableCineMachine();
-
-		foreach(KeyCode k in keyForDisableCineMachine)
+        int c = 0;
+        foreach (KeyCode k in keyForDisableCineMachine)
         {
             if (Input.GetKeyDown(k))
             {
-                DisableCineMachine();
+                cineCameras[Current % cineCameras.Length].enabled = false;
+                Debug.Log("Off/On: " + Current.ToString() + " -> " + c.ToString());
+                Current = c;
+                cineCameras[Current % cineCameras.Length].enabled = true;
             }
+            c++;
         }
+    }
 
-        for (int i = 0; i < cineCameras.Length; ++i)
-        {
-            if (Input.GetKeyDown(KeyCode.Alpha1 + i))
-            {
-                EnableCamera(i);
-            }
-        }
+    
 
-	}
-
+    public void EnableCamera(int index)
+    {
+        cineCameras[Current % cineCameras.Length].enabled = false;
+        Current = index;
+        cineCameras[Current % cineCameras.Length].enabled = true;
+    }
 
     public void DisableCineMachine()
     {
@@ -47,13 +52,6 @@ public class CineMachineCameraSwitcher : MonoBehaviour
         {
             c.enabled = false;
         }
-    }
-
-
-    public void EnableCamera(int index)
-    {
-        DisableCineMachine();
-        cineCameras[index % cineCameras.Length].enabled = true;
     }
 
 }

@@ -1,7 +1,7 @@
 fileFormatVersion: 2
 guid: 7ead5c66acabb784cb4bb6d516dd420f
-timeCreated: 1498187889
-licenseType: Free
+timeCreated: 1505233507
+licenseType: Pro
 SubstanceImporter:
   serializedVersion: 5
   materialInstances:
@@ -73,7 +73,7 @@ SubstanceImporter:
     materialInformation:
       serializedVersion: 5
       offset: {x: 0, y: 0}
-      scale: {x: 1, y: 1}
+      scale: {x: 2, y: 2}
       generateMipmaps: 1
       generateAllOutputs: 0
       animationUpdateRate: 42
@@ -82,7 +82,7 @@ SubstanceImporter:
       texEnvs:
       - _BumpMap:
           texture: {instanceID: 0}
-          scale: {x: 1, y: 1}
+          scale: {x: 2, y: 2}
           offset: {x: 0, y: 0}
       - _DetailAlbedoMap:
           texture: {instanceID: 0}
@@ -98,30 +98,30 @@ SubstanceImporter:
           offset: {x: 0, y: 0}
       - _EmissionMap:
           texture: {instanceID: 0}
-          scale: {x: 1, y: 1}
+          scale: {x: 2, y: 2}
           offset: {x: 0, y: 0}
       - _MainTex:
           texture: {instanceID: 0}
-          scale: {x: 1, y: 1}
+          scale: {x: 2, y: 2}
           offset: {x: 0, y: 0}
       - _MetallicGlossMap:
           texture: {instanceID: 0}
-          scale: {x: 1, y: 1}
+          scale: {x: 2, y: 2}
           offset: {x: 0, y: 0}
       - _OcclusionMap:
           texture: {instanceID: 0}
-          scale: {x: 1, y: 1}
+          scale: {x: 2, y: 2}
           offset: {x: 0, y: 0}
       - _ParallaxMap:
           texture: {instanceID: 0}
-          scale: {x: 1, y: 1}
+          scale: {x: 2, y: 2}
           offset: {x: 0, y: 0}
       floats:
-      - _BumpScale: 1
+      - _BumpScale: 0.3
       - _Cutoff: 0.5
       - _DetailNormalMapScale: 1
       - _DstBlend: 0
-      - _GlossMapScale: 0.07
+      - _GlossMapScale: 0.447
       - _Glossiness: 0.5
       - _GlossyReflections: 1
       - _Metallic: 0
@@ -134,7 +134,7 @@ SubstanceImporter:
       - _UVSec: 0
       - _ZWrite: 1
       colors:
-      - _Color: {r: 0.875, g: 0.8673, b: 0.85575, a: 1}
+      - _Color: {r: 0.125, g: 0.125, b: 0.125, a: 1}
       - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
     textureParameters:
     - name: leather_interior_basecolor
@@ -163,12 +163,12 @@ SubstanceImporter:
       aniso: 1
       wrapMode: 0
     textureAssignments:
-    - shaderProp: _BumpMap
-      material: {instanceID: 0}
-      baseUID: 639964239
     - shaderProp: _MainTex
       material: {instanceID: 0}
       baseUID: 639964237
+    - shaderProp: _BumpMap
+      material: {instanceID: 0}
+      baseUID: 639964239
     - shaderProp: _MetallicGlossMap
       material: {instanceID: 0}
       baseUID: 639964231
