@@ -9,6 +9,11 @@ public class CineMachineCameraSwitcher : MonoBehaviour
     public Cinemachine.CinemachineVirtualCamera[] cineCameras;
 
 
+    public Transform CurrentCamTransform
+    {
+        get { return cineCameras[Current].transform; }
+    }
+
     void Start()
     {
         if (cineCameras.Length < 1)
@@ -16,7 +21,6 @@ public class CineMachineCameraSwitcher : MonoBehaviour
 
 
         DisableCineMachine();
-        Current = 0;
         cineCameras[Current % cineCameras.Length].enabled = true;
     }
 
@@ -29,7 +33,6 @@ public class CineMachineCameraSwitcher : MonoBehaviour
             if (Input.GetKeyDown(k))
             {
                 cineCameras[Current % cineCameras.Length].enabled = false;
-                Debug.Log("Off/On: " + Current.ToString() + " -> " + c.ToString());
                 Current = c;
                 cineCameras[Current % cineCameras.Length].enabled = true;
             }

@@ -24,28 +24,28 @@ public class FlyCamera : MonoBehaviour
     private Vector3 lastMouse = new Vector3(255, 255, 255); //kind of in the middle of the screen, rather than at the top (play)
     private float totalRun = 1.0f;
 
-    public MonoBehaviour[] switchOff;
+    //public MonoBehaviour[] switchOff;
 
-    public bool keyAltDown = false;
+    //public bool keyAltDown = false;
     void Update()
     {
-        if (!Input.GetKey(KeyCode.LeftAlt))
-        {
-            keyAltDown = false;
-            foreach (var g in switchOff)
-                if (!g.enabled)
-                    g.enabled = true;
-        }
-        else
-        {
-            keyAltDown = true;
-            foreach (var g in switchOff)
-                if (g.enabled)
-                    g.enabled = false;
-        }
+        //if (!Input.GetKey(KeyCode.LeftAlt))
+        //{
+        //    keyAltDown = false;
+        //    foreach (var g in switchOff)
+        //        if (!g.enabled)
+        //            g.enabled = true;
+        //}
+        //else
+        //{
+        //    keyAltDown = true;
+        //    foreach (var g in switchOff)
+        //        if (g.enabled)
+        //            g.enabled = false;
+        //}
 
-        if (!keyAltDown)
-            return;
+        //if (!keyAltDown)
+        //    return;
 
         if (Input.GetMouseButtonDown(0))
         {
